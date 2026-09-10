@@ -1,0 +1,44 @@
+{
+  "reviewedOn": "2026-09-10",
+  "sources": 53,
+  "discoveries": 39,
+  "biologicalTaxa": 29,
+  "habitats": [
+    {
+      "id": "australia",
+      "biological": 6,
+      "spawns": 3,
+      "activities": 3,
+      "landmarks": 3
+    },
+    {
+      "id": "caribbean",
+      "biological": 7,
+      "spawns": 3,
+      "activities": 3,
+      "landmarks": 3
+    },
+    {
+      "id": "antarctica",
+      "biological": 7,
+      "spawns": 3,
+      "activities": 3,
+      "landmarks": 3
+    },
+    {
+      "id": "shipwreck",
+      "biological": 7,
+      "spawns": 3,
+      "activities": 3,
+      "landmarks": 3
+    },
+    {
+      "id": "deepsea",
+      "biological": 6,
+      "spawns": 3,
+      "activities": 3,
+      "landmarks": 3
+    }
+  ],
+  "failures": []
+}

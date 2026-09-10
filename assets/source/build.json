@@ -1,0 +1,8 @@
+{
+  "blenderVersion": "5.2.1 LTS",
+  "seed": 4107,
+  "recipe": "scripts/blender/build_assets.py",
+  "axes": "Blender Z up +Y forward; glTF Y up -Z forward",
+  "units": "meters",
+  "license": "CC0-1.0"
+}

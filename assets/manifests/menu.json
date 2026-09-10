@@ -1,0 +1,134 @@
+[
+  {
+    "creator": "Mermaidia original art direction; OpenAI built-in image generation",
+    "licenseIdOrTerms": "Original project artwork generated with OpenAI image generation; use subject to OpenAI Terms of Use. No reference image or third-party image input was supplied",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "attribution": "AI-generated decorative Mermaidia fantasy reef menu artwork, produced with the built-in image_gen tool from an original project prompt. Not a photograph, gameplay capture, biological identification reference or location record.",
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "Generation prompt and exact source-to-JPEG conversion are recorded in docs/MENU_ART.md",
+    "id": "menu-ocean-keyart-source",
+    "localPath": "assets/source/menu/ocean-keyart.png",
+    "sha256": "8f14400f51cf71e7b9fbc4854cdedad9c7128cd0fb7a17d0dc7bbee224519b01",
+    "modifications": [
+      "Original built-in image_gen output retained as supplied; no reference image input"
+    ]
+  },
+  {
+    "creator": "Mermaidia original art direction; OpenAI built-in image generation",
+    "licenseIdOrTerms": "Original project artwork generated with OpenAI image generation; use subject to OpenAI Terms of Use. No reference image or third-party image input was supplied",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "attribution": "AI-generated decorative Mermaidia fantasy reef menu artwork, produced with the built-in image_gen tool from an original project prompt. Not a photograph, gameplay capture, biological identification reference or location record.",
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "Generation prompt and exact source-to-JPEG conversion are recorded in docs/MENU_ART.md",
+    "id": "menu-ocean-keyart",
+    "localPath": "public/assets/menu/ocean-keyart.jpg",
+    "sha256": "24abbae3087a8d8f52a29600a81c24963781d2f8eaf28ae5b646baa9ab5c9de2",
+    "modifications": [
+      "Converted from retained generated PNG with FFmpeg mjpeg encoder, quality 2; 1672 x 941 RGB dimensions preserved"
+    ]
+  },
+  {
+    "id": "menu-scene-australia",
+    "localPath": "public/assets/menu/scenes/australia.jpg",
+    "sha256": "27e5e464db800fb27b18aad12410d91a14e4a46d53af5b703e0a1e83a9123d95",
+    "creator": "Mermaidia original Blender artwork and WebGL scene rendering",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original in-game Australian coast scene capture for the destination carousel. Stylized game rendering, not a documentary photograph.",
+    "modifications": [
+      "Captured as JPEG quality 88 from the running game; UI omitted; no external image source."
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "Capture the original game canvas at its default start, 1000×760, with UI hidden. See docs/MENU_CAROUSEL.md."
+  },
+  {
+    "id": "menu-scene-caribbean",
+    "localPath": "public/assets/menu/scenes/caribbean.jpg",
+    "sha256": "56461c60344562b99aa9bfe11459bbbb1cb596add6c764aabc21a8a7640c5ab9",
+    "creator": "Mermaidia original Blender artwork and WebGL scene rendering",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original in-game Caribbean scene capture for the destination carousel. Stylized game rendering, not a documentary photograph.",
+    "modifications": [
+      "Captured as JPEG quality 88 from the running game; UI omitted; no external image source."
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "Capture the original game canvas at its default start, 1000×760, with UI hidden. See docs/MENU_CAROUSEL.md."
+  },
+  {
+    "id": "menu-scene-antarctica",
+    "localPath": "public/assets/menu/scenes/antarctica.jpg",
+    "sha256": "21bb63194237c2e87b688e446bc3e527423e9db46894c96394da68cf18878c4e",
+    "creator": "Mermaidia original Blender artwork and WebGL scene rendering",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original in-game Antarctica scene capture for the destination carousel. Stylized game rendering, not a documentary photograph.",
+    "modifications": [
+      "Captured as JPEG quality 88 from the running game; UI omitted; no external image source."
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "Capture the original game canvas at its default start, 1000×760, with UI hidden. See docs/MENU_CAROUSEL.md."
+  },
+  {
+    "id": "menu-scene-shipwreck",
+    "localPath": "public/assets/menu/scenes/shipwreck.jpg",
+    "sha256": "9745052bac75a541cea632141e6c833360b8436b97e1cac8465daed58ecc0434",
+    "creator": "Mermaidia original Blender artwork and WebGL scene rendering",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original in-game The Benwood scene capture for the destination carousel. Stylized game rendering, not a documentary photograph.",
+    "modifications": [
+      "Captured as JPEG quality 88 from the running game; UI omitted; no external image source."
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "Capture the original game canvas at its default start, 1000×760, with UI hidden. See docs/MENU_CAROUSEL.md."
+  },
+  {
+    "id": "menu-scene-deepsea",
+    "localPath": "public/assets/menu/scenes/deepsea.jpg",
+    "sha256": "680ba83dd26810016c7dd6c3a1091fccaaabb479b545b2ae718a2dfe9e5df7bd",
+    "creator": "Mermaidia original Blender artwork and WebGL scene rendering",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original in-game Deep sea scene capture for the destination carousel. Stylized game rendering, not a documentary photograph.",
+    "modifications": [
+      "Captured as JPEG quality 88 from the running game; UI omitted; no external image source."
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "Capture the original game canvas at its default start, 1000×760, with UI hidden. See docs/MENU_CAROUSEL.md."
+  }
+]

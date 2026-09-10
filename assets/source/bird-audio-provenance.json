@@ -1,0 +1,37 @@
+{
+  "observationId": 238018928,
+  "observedOn": "2024-08-26",
+  "place": "Inverness Rd/York Rd, Mount Evelyn VIC 3796, Australia",
+  "creator": "John Cull",
+  "creatorUser": "bbdown",
+  "qualityGrade": "research",
+  "taxon": "Gallirallus philippensis",
+  "sounds": [
+    {
+      "id": 1185828,
+      "license_code": "cc0",
+      "attribution": "no rights reserved",
+      "native_sound_id": null,
+      "secret_token": null,
+      "file_url": "https://static.inaturalist.org/sounds/1185828.wav?1724652137",
+      "file_content_type": "audio/x-wav",
+      "play_local": true,
+      "subtype": null,
+      "flags": [],
+      "moderator_actions": [],
+      "hidden": false
+    }
+  ],
+  "identifications": [
+    {
+      "name": "bbdown",
+      "taxon": "Gallirallus philippensis"
+    },
+    {
+      "name": "see_j",
+      "taxon": "Gallirallus philippensis"
+    }
+  ],
+  "accessedOn": "2026-09-10",
+  "audibleListeningVerified": false
+}

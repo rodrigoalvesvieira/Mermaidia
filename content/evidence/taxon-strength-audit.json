@@ -1,0 +1,69 @@
+{
+  "reviewedOn": "2026-09-10",
+  "scope": "Local occurrence strength for named taxa; metadata only; no narration or model identity changes",
+  "result": "Retain existing scientific names; stronger exact locality references added",
+  "newSourceIds": [
+    "green-clam-museum",
+    "green-biology-local"
+  ],
+  "findings": [
+    {
+      "subject": "giant-clam",
+      "scientificName": "Tridacna gigas",
+      "evidence": "Hedley1921 Australian Museum personally collected Green Island off Cairns specimens; plateXXVII explicitly names T.gigas",
+      "url": "https://journals.australian.museum/media/Uploads/Journals/17093/867_complete.pdf",
+      "pdfSha256": "139d0c5123c3e7ad23df35964f52402efb4d86fa064bd5acc9c60a4836fe1b5d",
+      "inspectedPages": [
+        {
+          "pdfPage": 9,
+          "printedPage": "170",
+          "localImage": "artifacts/references/tridacna-green-island-page170.png"
+        },
+        {
+          "pdfPage": 12,
+          "printedPage": "PlateXXVII caption",
+          "localImage": "artifacts/references/tridacna-green-island-plate-caption.png"
+        }
+      ],
+      "limitation": "Historical collected specimens, not evidence of present abundance or guaranteed encounters"
+    },
+    {
+      "subject": "blue-striped-grunt",
+      "scientificName": "Haemulon sciurus",
+      "evidence": "Jstuby own-work photograph identifies species at Benwood9March2008; image inspected and morphology cross-checked Florida Museum",
+      "sourceIds": [
+        "benwood-grunts",
+        "grunt-museum"
+      ],
+      "limitation": "Historic diver photograph; general2021 group observation alone would not support species identification"
+    },
+    {
+      "subject": "yellowtail-snapper / sergeant-major",
+      "evidence": "Local Benwood operator explicitly names yellowtail snapper and sergeant major schools",
+      "sourceIds": [
+        "benwood-fish-local"
+      ],
+      "limitation": "Local operator account cross-checked NOAA/museum identification; not a formal population survey"
+    },
+    {
+      "subject": "anemonefish / green-turtle",
+      "evidence": "GBR Biology Green Island field trip explicitly names anemonefish and green turtle sightings around reef; no inference from aquarium exhibit",
+      "sourceIds": [
+        "green-biology-local"
+      ],
+      "limitation": "Anemonefish stays at genus level"
+    }
+  ],
+  "excludedSources": [
+    {
+      "url": "https://parks.desi.qld.gov.au/__data/assets/pdf_file/0029/163793/green-island-1999.pdf",
+      "reason": "Search snippet names Tridacna gigas but source PDF returnedHTTP410/HTML, so not inspected or relied on"
+    },
+    {
+      "description": "Green Island Taiwan and Philippines literature",
+      "reason": "Different locality; excluded"
+    }
+  ],
+  "childTextChanged": false,
+  "scientificNamesChanged": false
+}

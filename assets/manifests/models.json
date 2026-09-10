@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "elise",
+    "localPath": "public/assets/models/elise.glb",
+    "sha256": "eff3d70c6d35cf025346fd4b91421cb09ac5808c7611f2173d8390bcb05b2bb2",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "elise-portrait",
+    "localPath": "public/assets/portraits/elise.png",
+    "sha256": "f121428287730f3769673fdd7063a6aab545ab2baff9f77ab9e3bc9d17aec63d",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-kit",
+    "localPath": "public/assets/models/reef-kit.glb",
+    "sha256": "7de9062c1525991c1e3aef1b43b4e223e47f0468fd28714b10f9aef816984c14",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-kit-portrait",
+    "localPath": "public/assets/portraits/reef-kit.png",
+    "sha256": "0c6aa0c18ffc8fd715e45376691203e8fa9ed980f75c7804b8c578dec0e1a036",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "giant-clam",
+    "localPath": "public/assets/models/giant-clam.glb",
+    "sha256": "e3efda7ad73229e513b9a48019ce8078fa1cd3749445c0541045ff458903851f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "clam-dbca",
+      "natgeo-clam"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "giant-clam-portrait",
+    "localPath": "public/assets/portraits/giant-clam.png",
+    "sha256": "1dc5485529eb35382460ae48e153425cb29e482cd8c13f564dc36cad6b6389ad",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "clam-dbca",
+      "natgeo-clam"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "blue-tang",
+    "localPath": "public/assets/models/blue-tang.glb",
+    "sha256": "240c36d68555292fa09e61e454ab2713b3ecda3476ea1c3a204a0fea5ab26e2f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "blue-tang-portrait",
+    "localPath": "public/assets/portraits/blue-tang.png",
+    "sha256": "ecf8fdb65d5c6ea5b8f324b6f9b5f493003997c4cee55fe519edbf4ce33c2da8",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "elkhorn-coral",
+    "localPath": "public/assets/models/elkhorn-coral.glb",
+    "sha256": "4b42f4b606c411e20b9c613c0c9efe3578c725c2075adb8f22fd44ad64488542",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "elkhorn-coral-portrait",
+    "localPath": "public/assets/portraits/elkhorn-coral.png",
+    "sha256": "377d540a6be6cba7f700d37568d70d432aadb548c223b4bbbce1629a54f454df",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "spiny-lobster",
+    "localPath": "public/assets/models/spiny-lobster.glb",
+    "sha256": "a364a80370fbe843d09905dcf5dd34c9ea9ce3a2f9038962324fd54d9dc89755",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "spiny-lobster-portrait",
+    "localPath": "public/assets/portraits/spiny-lobster.png",
+    "sha256": "9247a073efa327a636f0e09fd934bc1c93aa2f70e65e1c83e51ed9e0cb45a685",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "bloody-belly-comb-jelly",
+    "localPath": "public/assets/models/bloody-belly-comb-jelly.glb",
+    "sha256": "26f7a4b618b66fc683a1e9840944eb1d0aad477c53cd39db4b2e895e33b551bd",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "bloody-belly-comb-jelly-portrait",
+    "localPath": "public/assets/portraits/bloody-belly-comb-jelly.png",
+    "sha256": "8c3c386cf974b66d296e491e91ea3e941a7001a1295319d34670ad51c51d3e54",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "barreleye",
+    "localPath": "public/assets/models/barreleye.glb",
+    "sha256": "ce48f209589141dcd858f3edf29320cbe8da3290acafeed3952aea61a8f6eddc",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-barreleye-fish",
+      "barreleye-aquarium"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "barreleye-portrait",
+    "localPath": "public/assets/portraits/barreleye.png",
+    "sha256": "f173bbccfee668c2b95880dc346a9d971800cdfc68708a8404c9d8ff75221fcf",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-barreleye-fish",
+      "barreleye-aquarium"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "vampire-squid",
+    "localPath": "public/assets/models/vampire-squid.glb",
+    "sha256": "75398a1d9c1bfc5c59d07b5660b3b49a5b22aabd5955f586200571c3ed432bc5",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-vampire-squid",
+      "vampire-research"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "vampire-squid-portrait",
+    "localPath": "public/assets/portraits/vampire-squid.png",
+    "sha256": "106e96a31c765b42244a8bcce38e487a66c310ae4d01a1fa359377d4494ee1ce",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-vampire-squid",
+      "vampire-research"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "big-red-jelly",
+    "localPath": "public/assets/models/big-red-jelly.glb",
+    "sha256": "4ac586fc2bd9ba29a6d51e8e71ebb4935eb790b16e1df5e82eee96e8a0bcde10",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-big-red-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "big-red-jelly-portrait",
+    "localPath": "public/assets/portraits/big-red-jelly.png",
+    "sha256": "0cb10ce572fccbcd7c4e71671ae95affe0f695fcb5ef904388e9bb48f4b99e96",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-big-red-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "redhead-larvacean",
+    "localPath": "public/assets/models/redhead-larvacean.glb",
+    "sha256": "ecf35ae8e6020ddf82c3545cf3002841331e901e64418ef3e3d7441cdbdaecac",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "redhead-larvacean-portrait",
+    "localPath": "public/assets/portraits/redhead-larvacean.png",
+    "sha256": "c123b7bdb90a9dd3dd12e9fbf0d9d42476fdadd2db7202f690d1c31c13cb13c6",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "yellowtail-snapper",
+    "localPath": "public/assets/models/yellowtail-snapper.glb",
+    "sha256": "68d55e961cadb9491322fddea66930a835b6950e840bf4ae89d580e2e52b2102",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "yellowtail-snapper-portrait",
+    "localPath": "public/assets/portraits/yellowtail-snapper.png",
+    "sha256": "852097d961c4f90ca4446aa461a4bbc8f150ec6c3c40a950272013c160788f96",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sergeant-major",
+    "localPath": "public/assets/models/sergeant-major.glb",
+    "sha256": "ef57dba9241ccb69bb1da24722c802d982fa25ae5a46d5ab08ddee17da1eea56",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "sergeant-major-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sergeant-major-portrait",
+    "localPath": "public/assets/portraits/sergeant-major.png",
+    "sha256": "e845dbb01d007f4a92e21e2db9e607c9e18bfacdaad9e8dedec2d0d80861990c",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "sergeant-major-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "anemonefish",
+    "localPath": "public/assets/models/anemonefish.glb",
+    "sha256": "20994b1ea7510b896fad0f752a74e21582d3f1376873588e40217ef69039d344",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "anemonefish-dbca"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "anemonefish-portrait",
+    "localPath": "public/assets/portraits/anemonefish.png",
+    "sha256": "57225f091967d6b5d3f6da60f5ce75c054e2398cc291a401198c7b466c23098a",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "anemonefish-dbca"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "turtle-grass",
+    "localPath": "public/assets/models/turtle-grass.glb",
+    "sha256": "be15af39ebe835bc454ca15cd42c2e79f88a8df90880d995f206c9945634cdd0",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "turtle-grass-source"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "turtle-grass-portrait",
+    "localPath": "public/assets/portraits/turtle-grass.png",
+    "sha256": "b647dadfbf8265d8f955c4bdfc53e55940b3b2b2a6dc61e8aacd7e165d84e8fa",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "turtle-grass-source"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "antarctic-krill",
+    "localPath": "public/assets/models/antarctic-krill.glb",
+    "sha256": "c979fb9ea79fc5b30e65d66e7c0560c86403498395dabc03649487388da5f1b7",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "krill-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "antarctic-krill-portrait",
+    "localPath": "public/assets/portraits/antarctic-krill.png",
+    "sha256": "48bd05f53ca8c06f246b5fd362ba433932d136315daa2780d3a2315c3c5f6d10",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "krill-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-sand",
+    "localPath": "public/assets/models/reef-sand.glb",
+    "sha256": "e768cba17929ba5baeb7542bbcd6f799b428ba394570f40f3b7af59aff3dc825",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-sand-portrait",
+    "localPath": "public/assets/portraits/reef-sand.png",
+    "sha256": "aedf349a1130c9a958426790afe223766a564f1954dce92c95bbcda5b7ad1455",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-limestone",
+    "localPath": "public/assets/models/reef-limestone.glb",
+    "sha256": "0de8d519798a0a01bdd166877ec45b5ae49846d5e28d87ca21e68d54b746590f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "reef-limestone-portrait",
+    "localPath": "public/assets/portraits/reef-limestone.png",
+    "sha256": "8b90d6953c3c887c5a2c9d633b22ad5ebbe744a7cd7d87b3da612673fec84855",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "beach-sand",
+    "localPath": "public/assets/models/beach-sand.glb",
+    "sha256": "5b3d0b17d0b09a7e07955c767047408a539ea9727e9f340fe024628b7c430314",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "beach-sand-portrait",
+    "localPath": "public/assets/portraits/beach-sand.png",
+    "sha256": "2a8b5695d222ab54738d1d47aa3fb77a1e3016d29045a02c2acaed2cbf0ae45e",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-sand",
+    "localPath": "public/assets/models/wreck-sand.glb",
+    "sha256": "802e66f0ce040398c902d6838e37406797a927456f558e078060d30e7fa1f059",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-sand-portrait",
+    "localPath": "public/assets/portraits/wreck-sand.png",
+    "sha256": "8e0a53a3fc97227975fb4f0cba834dd16093117c10e526bca043b2a1179d5b85",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sea-ice",
+    "localPath": "public/assets/models/sea-ice.glb",
+    "sha256": "f95b6f5936524013f577b4962f705932d0e53b9bc0aec77bf26ed5b86de79d51",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sea-ice-portrait",
+    "localPath": "public/assets/portraits/sea-ice.png",
+    "sha256": "068b0ea2806aa72788650d9e90d40c35b0f0da0103462ac31e33de865dcf761f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "antarctic-rock",
+    "localPath": "public/assets/models/antarctic-rock.glb",
+    "sha256": "85d5575ca596f81d1725ebeccd0a878626649d769bc4884fb7375583ba0e477a",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "antarctic-rock-portrait",
+    "localPath": "public/assets/portraits/antarctic-rock.png",
+    "sha256": "b4eb67c8c22b52f985a644340ab5234ec3dcc4c3f8309e18a2275a879f7dd67e",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "marine-snow",
+    "localPath": "public/assets/models/marine-snow.glb",
+    "sha256": "eea5d836332097758495ce562e3acf6bac5541a7f66c9068dd15b3d05c11eaf9",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "marine-snow-portrait",
+    "localPath": "public/assets/portraits/marine-snow.png",
+    "sha256": "b4edf84fe20ed8d911b2c8f1f9833ec28dfed85c5699ca5ea4500746b018aeb7",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "deep-water",
+    "localPath": "public/assets/models/deep-water.glb",
+    "sha256": "98834a8491ec4785f08a13e0f3dc0346de185fa1d37ac26a1801b03fcc3e7c77",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "deep-water-portrait",
+    "localPath": "public/assets/portraits/deep-water.png",
+    "sha256": "b0c5468b054775f77114bcca209fc103e5ab05f6a06c1b6630f4bd7eb0c82fec",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "seagrass",
+    "localPath": "public/assets/models/seagrass.glb",
+    "sha256": "4478aeae930213bc42ae1e0b0989cc38830f94f5f7fa3464b8aa54fa7caebbfd",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "halodule-visual",
+      "halodule-photo"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "seagrass-portrait",
+    "localPath": "public/assets/portraits/seagrass.png",
+    "sha256": "f65c52b64593f4264dc314876607c7191088eec422a202c2231d9bf20927f958",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "halodule-visual",
+      "halodule-photo"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "staghorn-coral",
+    "localPath": "public/assets/models/staghorn-coral.glb",
+    "sha256": "d43eebeda6e40189cb33d6b3f08952516221a0e62bb9e2627dd508e0470c5892",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "acropora-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "staghorn-coral-portrait",
+    "localPath": "public/assets/portraits/staghorn-coral.png",
+    "sha256": "16311ac8c4cd45c2d76c92ad684bee1670106139c9e822958803b5aa2ea96157",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "acropora-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "green-turtle",
+    "localPath": "public/assets/models/green-turtle.glb",
+    "sha256": "6a1718b266f672c37cbfbcde0e7be6d942fd3caa2b8115bcb17432dc6bbaf528",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-turtle-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "green-turtle-portrait",
+    "localPath": "public/assets/portraits/green-turtle.png",
+    "sha256": "bd05cf7c60e4a3335612756625e145cf0005ba598e4e9afe644abadd71cd4146",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-turtle-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "hawksbill-turtle",
+    "localPath": "public/assets/models/hawksbill-turtle.glb",
+    "sha256": "09bfc9a464e110a009d0fd738b886096a81b218e97de4f96335e6f9ba961ef9a",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-animals",
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "hawksbill-turtle-portrait",
+    "localPath": "public/assets/portraits/hawksbill-turtle.png",
+    "sha256": "f8f2317e01e26cac5a9be1e1a5163d2c7776d593f8630a2cf0eacf806875ee3b",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-animals",
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "brown-pelican",
+    "localPath": "public/assets/models/brown-pelican.glb",
+    "sha256": "3d1e9454e19b2b616e95cb91473da2cd6aac50d74eec13c8e0000a52dc3c0f88",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "brown-pelican-portrait",
+    "localPath": "public/assets/portraits/brown-pelican.png",
+    "sha256": "a178f6a5a6a91ecc26ffb4c837e5e0d9ae16f3bfc766e3099041120751bea322",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "adelie-penguin",
+    "localPath": "public/assets/models/adelie-penguin.glb",
+    "sha256": "96380f908c70d7e4099a7e87d34a5a50d6d8489d35fd3d0ac12048a195716e8f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "adelie-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "adelie-penguin-portrait",
+    "localPath": "public/assets/portraits/adelie-penguin.png",
+    "sha256": "d3650d7a5e1a70065c7e0ba2f37b444033ccf14c1fa53d80f4f287d0c2768ed9",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "adelie-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "emperor-penguin",
+    "localPath": "public/assets/models/emperor-penguin.glb",
+    "sha256": "117b3ad37c1feaffef9484fa120de2e4cb78b2efa1ad91b65c57a4ff18715a00",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "emperor-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "emperor-penguin-portrait",
+    "localPath": "public/assets/portraits/emperor-penguin.png",
+    "sha256": "767b642197a8c8e0541e79d0275a133d526a88b20f6a8fa5fd51f666b6dd2979",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "emperor-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "snow-petrel",
+    "localPath": "public/assets/models/snow-petrel.glb",
+    "sha256": "1b68be2aa2751506965c7d0f272a01fd1bc5776d0800552dc068a8c1b8d35fab",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "snow-petrel-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "snow-petrel-portrait",
+    "localPath": "public/assets/portraits/snow-petrel.png",
+    "sha256": "bf486eb91c6931a04fe5a5a4232e10838461aa999576e3f51324de0e34666a5a",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "snow-petrel-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "blue-striped-grunt",
+    "localPath": "public/assets/models/blue-striped-grunt.glb",
+    "sha256": "b73d8a636f31fdce43609c8c55fd7885ab11ad34b358f5a270a02f49e25d9b8f",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "grunt-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "blue-striped-grunt-portrait",
+    "localPath": "public/assets/portraits/blue-striped-grunt.png",
+    "sha256": "f9d250a49cca4470ec461f94efc8f7dbafe2ccdb5b490e6ba33ae722921572f8",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "grunt-museum"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "buff-banded-rail",
+    "localPath": "public/assets/models/buff-banded-rail.glb",
+    "sha256": "58c3e83002b71c1bd995add00294e3245f95fd7346903eccb7006e1386ce11b1",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-rail"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "buff-banded-rail-portrait",
+    "localPath": "public/assets/portraits/buff-banded-rail.png",
+    "sha256": "3c594cdfbb420aa34e5b9c81ce19ad830920e5dff80278787e6e00c2c1a45ca3",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-rail"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "weddell-seal",
+    "localPath": "public/assets/models/weddell-seal.glb",
+    "sha256": "b136c38fd35129c6e4648cfb96de82651d5ea97c60cd5913583a64846f74c416",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "weddell-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "weddell-seal-portrait",
+    "localPath": "public/assets/portraits/weddell-seal.png",
+    "sha256": "91fce38bc420c72f6a272948e095a1eb675e39ba05f56d9a6fae6c455a8ee1c9",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "weddell-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "southern-elephant-seal",
+    "localPath": "public/assets/models/southern-elephant-seal.glb",
+    "sha256": "76470641829029b5c995a7b9f480f4bb2f54907038888c17ace0984ef8a10cd6",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "elephant-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "southern-elephant-seal-portrait",
+    "localPath": "public/assets/portraits/southern-elephant-seal.png",
+    "sha256": "c422437925335d103393bc7d9855dfd72f619b147c99314369ad061630b3f55d",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "elephant-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "leopard-seal",
+    "localPath": "public/assets/models/leopard-seal.glb",
+    "sha256": "45453fee06388c70fbc58aeb7ecf4effbca05722196d398f326596d3bba836eb",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "leopard-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "leopard-seal-portrait",
+    "localPath": "public/assets/portraits/leopard-seal.png",
+    "sha256": "49d1fcf6b157ef31f6142694a6c40bbc3e9c1380a420884098d0309e95f87682",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "leopard-aap"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "green-moray",
+    "localPath": "public/assets/models/green-moray.glb",
+    "sha256": "b13e4e7af6dd1ff73a83ecf75d893a2c364dd07637ff0830bc41a1fe9471779b",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "green-moray-portrait",
+    "localPath": "public/assets/portraits/green-moray.png",
+    "sha256": "eccc640018077fd6f0494afd076d1bad7c02bcf3c636b50626c5af89b426bf65",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-bow",
+    "localPath": "public/assets/models/wreck-bow.glb",
+    "sha256": "65a3f400ffea69d81f5265ff2e74431b7b123318a54e0c23bb17327737bf9cb9",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder",
+      "Revision 2: thin corroded steel plates, rectangular angles, jagged holes and original vertex-color rust/encrustation"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-bow-portrait",
+    "localPath": "public/assets/portraits/wreck-bow.png",
+    "sha256": "17c68b62d80258f0d105941b64762108241d6d8389ed90bca4955706814a35ef",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "Revision 2: thin corroded steel plates, rectangular angles, jagged holes and original vertex-color rust/encrustation"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-ribs",
+    "localPath": "public/assets/models/wreck-ribs.glb",
+    "sha256": "fd5f96b3aadaec1edcc05a02a1d90d3462b9b74e44c7272f315de34bb96b7b4e",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder",
+      "Revision 2: thin corroded steel plates, rectangular angles, jagged holes and original vertex-color rust/encrustation"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "wreck-ribs-portrait",
+    "localPath": "public/assets/portraits/wreck-ribs.png",
+    "sha256": "28c2f5e31e9e2fcd3ffbb2ba13708d92c0b80f096a3fcd691400657473bd174a",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "Revision 2: thin corroded steel plates, rectangular angles, jagged holes and original vertex-color rust/encrustation"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sea-fan",
+    "localPath": "public/assets/models/sea-fan.glb",
+    "sha256": "1fe2fd9f3e81b2a6191dbe7d1e84cfeb17464479775a40566bc47406d9b3f2cb",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "glTF Transform dedup/weld/prune with measured-size acceptance; no lossy geometry or external decoder",
+      "Revision 2: asymmetric reticulate fan with irregular branch cells; original reference-informed geometry"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures",
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  },
+  {
+    "id": "sea-fan-portrait",
+    "localPath": "public/assets/portraits/sea-fan.png",
+    "sha256": "abadf3387d738a9b0c06a5957cb63de86d31e9cfcf05b79a5b5cc97eda87e1cc",
+    "creator": "Mermaidia original procedural Blender artwork",
+    "licenseIdOrTerms": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Original Mermaidia artwork, released under CC0-1.0. Scientific references are not redistributed.",
+    "modifications": [
+      "Authored in Blender 5.2.1 from deterministic recipe; glTF Y-up export",
+      "Revision 2: asymmetric reticulate fan with irregular branch cells; original reference-informed geometry"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures",
+      "buck-front"
+    ],
+    "buildRecipe": "scripts/blender/build_assets.py --seed 4107"
+  }
+]

@@ -1,0 +1,508 @@
+.game-menu {
+  position: relative;
+  isolation: isolate;
+  min-height: 100svh;
+  overflow: hidden;
+  padding: 25px 4vw 24px;
+  color: #fff8e8;
+  background: #063a49;
+}
+.menu-keyart,
+.menu-shade {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+.menu-keyart {
+  background: url("/assets/menu/ocean-keyart.jpg") center / cover;
+}
+.menu-shade {
+  background:
+    linear-gradient(90deg, #03253699, #04425444 50%, #03253688),
+    linear-gradient(0deg, #032535e8, transparent 75%);
+}
+.menu-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  position: relative;
+  z-index: 5;
+}
+.menu-topline h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(28px, 3.6vw, 54px);
+  color: #fff0ca;
+  letter-spacing: 0.015em;
+  margin: 0;
+  text-shadow: 0 3px 18px #002e43;
+}
+.menu-topline h1 > span {
+  color: #ffdc8b;
+  font-size: 0.55em;
+  vertical-align: top;
+  margin-left: 8px;
+}
+.menu-tools {
+  display: flex;
+  gap: 10px;
+}
+.game-menu button {
+  color: inherit;
+}
+.game-menu button:focus-visible {
+  outline: 3px solid #fff3a6;
+  outline-offset: 5px;
+}
+.game-menu .menu-tools button {
+  width: 49px;
+  height: 49px;
+  min-height: 49px;
+  padding: 12px;
+  border-radius: 50%;
+  border: 1px solid #dcf9ef44;
+  background: #02374675;
+  backdrop-filter: blur(12px);
+}
+.menu-tools svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.menu-adventure {
+  display: grid;
+  grid-template-columns: 32% 68%;
+  align-items: center;
+  min-height: calc(100svh - 110px);
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.menu-elise {
+  position: relative;
+  height: clamp(390px, 74svh, 800px);
+  min-width: 0;
+  pointer-events: none;
+}
+.elise-stage {
+  position: absolute;
+  inset: 0 -18%;
+}
+.elise-stage canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.elise-fallback {
+  position: absolute;
+  width: 150%;
+  height: 100%;
+  left: -25%;
+  object-fit: contain;
+  transition: opacity 0.2s;
+  filter: drop-shadow(0 18px 24px #002c40);
+}
+.elise-fallback.loaded {
+  opacity: 0;
+}
+.elise-glow {
+  position: absolute;
+  inset: 14% -12% 2%;
+  border-radius: 50%;
+  background: radial-gradient(ellipse, #a1efcc29, transparent 67%);
+}
+.elise-name {
+  white-space: nowrap;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) rotate(-5deg);
+  font-size: clamp(24px, 3vw, 42px);
+  font-weight: 600;
+  color: #ffecd0;
+  text-shadow: 0 3px 14px #00222f;
+}
+.elise-name span {
+  color: #ffdf8f;
+}
+.scene-picker {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 14px 0 8px;
+  position: relative;
+}
+.scene-carousel {
+  position: relative;
+  width: 100%;
+  height: clamp(250px, 43vw, 450px);
+  perspective: 1200px;
+  touch-action: pan-y;
+  user-select: none;
+  overflow: hidden;
+}
+.game-menu .scene-card {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 70%;
+  height: 87%;
+  min-height: 0;
+  padding: 0;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 3px solid #deede761;
+  background: #07546a;
+  text-align: left;
+  transform: translate(calc(-50% + var(--offset) * 78%), -50%)
+    scale(calc(1 - var(--distance) * 0.16)) rotate(calc(var(--offset) * 5deg));
+  opacity: calc(1 - var(--distance) * 0.42);
+  box-shadow: 0 22px 55px #00172588;
+  transition:
+    transform 0.38s ease,
+    opacity 0.3s,
+    border-color 0.3s;
+}
+.game-menu .scene-card[aria-hidden="true"] {
+  visibility: hidden;
+  pointer-events: none;
+}
+.game-menu .scene-card.active {
+  border-color: #fff0b6;
+  box-shadow:
+    0 0 0 5px #efd08722,
+    0 25px 55px #001c2a88;
+}
+.scene-picture {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.scene-card-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, #012c40e8, transparent 50%);
+}
+.scene-animal {
+  position: absolute;
+  right: -7%;
+  bottom: 5%;
+  width: 54%;
+  height: 54%;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 16px #00162766);
+}
+.scene-card h2 {
+  position: absolute;
+  left: 7%;
+  bottom: 7%;
+  margin: 0;
+  z-index: 1;
+  font-size: clamp(22px, 3vw, 40px);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  text-shadow: 0 2px 8px #002434;
+}
+.game-menu .carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 6;
+  border-radius: 50%;
+  width: 64px;
+  height: 64px;
+  min-height: 64px;
+  padding: 0;
+  background: #e3faf0;
+  border: 3px solid #ffffffb0;
+  color: #154c5b;
+  box-shadow: 0 8px 25px #00253677;
+}
+.carousel-arrow span {
+  display: block;
+  font-size: 57px;
+  line-height: 45px;
+  padding-bottom: 6px;
+}
+.game-menu .carousel-arrow:hover {
+  background: #fff3bf;
+}
+.carousel-arrow.previous {
+  left: 0;
+}
+.carousel-arrow.next {
+  right: 0;
+}
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  margin: -6px 0 6px;
+  z-index: 5;
+}
+.game-menu .carousel-dots button {
+  display: grid;
+  place-items: center;
+  min-height: 38px;
+  width: 38px;
+  padding: 0;
+  background: transparent;
+}
+.carousel-dots button span {
+  width: 9px;
+  height: 9px;
+  border-radius: 10px;
+  background: #d9f3ec66;
+  transition:
+    width 0.2s,
+    background 0.2s;
+}
+.carousel-dots button.selected span {
+  width: 26px;
+  background: #ffe6a6;
+}
+.scene-starts {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 0 18px;
+}
+.game-menu .start-card {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 15px;
+  min-height: 56px;
+  border: 1px solid #b7eeeb3d;
+  border-radius: 20px;
+  background: #063445a6;
+  font-size: 13px;
+  color: #dff3eb;
+}
+.start-card svg {
+  width: 27px;
+  height: 27px;
+}
+.game-menu .start-card.selected {
+  color: #fff1bd;
+  border-color: #ffe7a2;
+  background: #54726877;
+  box-shadow: 0 0 0 2px #ffefb014;
+}
+.game-menu .menu-play {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  min-height: 74px;
+  min-width: 240px;
+  padding: 14px 45px;
+  border-radius: 28px;
+  color: #153f49;
+  font-size: 30px;
+  font-weight: 700;
+  background: linear-gradient(180deg, #fff0ad, #f8cf74);
+  border: 2px solid #ffefb5;
+  box-shadow:
+    0 7px 0 #b7833c,
+    0 15px 30px #001e3680;
+}
+.menu-play svg {
+  width: 32px;
+  height: 32px;
+}
+.game-menu .menu-play:hover {
+  background: #fff2bc;
+  transform: translateY(-2px);
+}
+.game-menu .menu-play:active {
+  transform: translateY(4px);
+  box-shadow: 0 3px 0 #b7833c;
+}
+.menu-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+@media (min-width: 1500px) {
+  .scene-carousel {
+    height: 510px;
+  }
+}
+@media (max-width: 800px) {
+  .game-menu {
+    padding: 20px 20px 28px;
+  }
+  .menu-adventure {
+    grid-template-columns: 27% 73%;
+    min-height: calc(100svh - 100px);
+  }
+  .menu-elise {
+    height: 58svh;
+  }
+  .scene-carousel {
+    height: 360px;
+  }
+  .game-menu .scene-card {
+    width: 76%;
+    border-radius: 23px;
+  }
+  .game-menu .carousel-arrow {
+    width: 49px;
+    height: 49px;
+    min-height: 49px;
+  }
+  .carousel-arrow span {
+    font-size: 45px;
+    line-height: 37px;
+  }
+  .scene-starts {
+    gap: 7px;
+  }
+  .game-menu .start-card {
+    flex-direction: column;
+    gap: 5px;
+    padding: 8px 12px;
+    font-size: 11px;
+    border-radius: 16px;
+  }
+}
+@media (max-width: 520px) {
+  .game-menu {
+    padding: 18px 12px 26px;
+  }
+  .menu-topline {
+    gap: 8px;
+    padding: 0 5px;
+  }
+  .menu-topline h1 {
+    font-size: 28px;
+  }
+  .menu-tools {
+    gap: 5px;
+  }
+  .game-menu .menu-tools button {
+    width: 38px;
+    height: 38px;
+    min-height: 38px;
+    padding: 9px;
+  }
+  .menu-adventure {
+    grid-template-columns: 25% 75%;
+    align-items: start;
+    padding-top: 55px;
+    min-height: calc(100svh - 90px);
+  }
+  .menu-elise {
+    height: 370px;
+    margin-top: 10px;
+    z-index: 4;
+  }
+  .elise-stage {
+    inset: 0 -65%;
+  }
+  .elise-fallback {
+    width: 240%;
+    left: -70%;
+  }
+  .elise-name {
+    bottom: -26px;
+    font-size: 23px;
+  }
+  .scene-picker {
+    padding-top: 0;
+  }
+  .scene-carousel {
+    height: 290px;
+  }
+  .game-menu .scene-card {
+    width: 81%;
+    height: 83%;
+    border-radius: 21px;
+  }
+  .scene-card h2 {
+    font-size: 24px;
+    left: 8%;
+    bottom: 9%;
+  }
+  .scene-animal {
+    width: 66%;
+    height: 55%;
+    bottom: 22%;
+    right: -4%;
+  }
+  .game-menu .carousel-arrow {
+    width: 48px;
+    height: 48px;
+    min-height: 48px;
+    border-width: 2px;
+  }
+  .carousel-arrow.previous {
+    left: 0;
+  }
+  .carousel-arrow.next {
+    right: 0;
+  }
+  .carousel-arrow span {
+    font-size: 40px;
+    line-height: 33px;
+  }
+  .carousel-dots {
+    margin: -3px 0 9px;
+  }
+  .game-menu .carousel-dots button {
+    width: 44px;
+    min-height: 44px;
+  }
+  .scene-starts {
+    gap: 5px;
+    margin-bottom: 18px;
+  }
+  .game-menu .start-card {
+    padding: 9px 10px;
+    min-width: 65px;
+  }
+  .game-menu .menu-play {
+    min-width: 210px;
+    min-height: 65px;
+    font-size: 27px;
+    border-radius: 23px;
+  }
+}
+@media (max-height: 650px) and (min-width: 801px) {
+  .game-menu {
+    padding-block: 16px;
+  }
+  .menu-adventure {
+    min-height: 0;
+  }
+  .menu-elise {
+    height: 460px;
+  }
+  .scene-carousel {
+    height: 280px;
+  }
+  .game-menu .menu-play {
+    min-height: 60px;
+  }
+  .scene-starts {
+    margin-bottom: 12px;
+  }
+}
+.reduced .game-menu *,
+.reduced .game-menu *::after {
+  transition: none !important;
+  animation: none !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  .game-menu *,
+  .game-menu *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}

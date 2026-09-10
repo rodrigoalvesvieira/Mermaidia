@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+node --version
+npm --version
+if [[ -n "${BLENDER_BIN:-}" ]]; then "$BLENDER_BIN" --version; elif command -v blender >/dev/null; then blender --version; elif [[ -x /Applications/Blender.app/Contents/MacOS/Blender ]]; then /Applications/Blender.app/Contents/MacOS/Blender --version; elif [[ "$(uname -s)" == Darwin ]] && command -v brew >/dev/null; then brew install --cask blender; elif command -v apt-get >/dev/null; then sudo apt-get update && sudo apt-get install -y blender; else echo 'Install Blender from blender.org and set BLENDER_BIN to its executable.'; exit 1; fi
+for dependency in ffmpeg espeak-ng; do
+ if ! command -v "$dependency" >/dev/null; then
+  if command -v brew >/dev/null; then brew install "$dependency"; elif command -v apt-get >/dev/null; then sudo apt-get install -y "$dependency"; else echo "Missing required authoring dependency: $dependency"; exit 1; fi
+ fi
+done
+npm ci
+npx playwright install chromium firefox webkit
+if [[ "$(uname -s)" == Linux ]]; then npx playwright install-deps; fi
+npm run doctor

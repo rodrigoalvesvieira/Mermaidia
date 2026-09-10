@@ -1,0 +1,2109 @@
+[
+  {
+    "id": "ambience-reef",
+    "localPath": "public/assets/audio/ambience-reef.wav",
+    "sha256": "020ca786deb5f7e81e6037b041d97e13813cff0ad74e1edd1d8add6427d732db",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "surface-reef",
+    "localPath": "public/assets/audio/surface-reef.wav",
+    "sha256": "4727c064de5fd2a0b422cd07df8bf86b04f9a795df6f1e02e6f8bd4fa43f8da6",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "ambience-caribbean",
+    "localPath": "public/assets/audio/ambience-caribbean.wav",
+    "sha256": "f4191b26f44513a9907b354b5adc1d486f9baf7aafaf16ed0aa8f53d4ae2dc13",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "surface-caribbean",
+    "localPath": "public/assets/audio/surface-caribbean.wav",
+    "sha256": "af001f079c67ac5b57cae8726ff6202757d6a9991cf72c79191c0815ea26d1dd",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "ambience-ice",
+    "localPath": "public/assets/audio/ambience-ice.wav",
+    "sha256": "5a49c5ec77996cc88d7f4d44d019b58d7d3b215df3c95d08e0c830fd23d33111",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "surface-ice",
+    "localPath": "public/assets/audio/surface-ice.wav",
+    "sha256": "0b622127778e6b9033952556cc1284d641849da980ba1e9cc4f42bd0d644a665",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "ambience-wreck",
+    "localPath": "public/assets/audio/ambience-wreck.wav",
+    "sha256": "bda0d5aed9368b622b923b981a896cdc1125b9dcc958eb400293537994b1ff9e",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "surface-wreck",
+    "localPath": "public/assets/audio/surface-wreck.wav",
+    "sha256": "689157a5e8cfa40c65761449aeb0cac36176719676c45a817348c0bb8c6b00d9",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "ambience-deep",
+    "localPath": "public/assets/audio/ambience-deep.wav",
+    "sha256": "67f264811c2a68a502ad0f3e5f701f79fec0ff00096799e664c5a542cc27361b",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "surface-deep",
+    "localPath": "public/assets/audio/surface-deep.wav",
+    "sha256": "8ebae018a1a910c114aa45d944e4785d17ebc409ce8d45e0af9d2ac7629104ab",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "cue-discovery",
+    "localPath": "public/assets/audio/cue-discovery.wav",
+    "sha256": "2f06ea8f4524f7898a7ffa7f7ace5dd5e991e2e1dd52bd328b8cb2c8ffa84a52",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "cue-listening",
+    "localPath": "public/assets/audio/cue-listening.wav",
+    "sha256": "081664f501fd25c58db744abeb053a998b67a86911df93232453bd3f0211481f",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "cue-swish",
+    "localPath": "public/assets/audio/cue-swish.wav",
+    "sha256": "e8947d3f0c7b467fb317179d6bdc0d84e9fefa2ded8d5e0948e01bfbfa7023ff",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "cue-click",
+    "localPath": "public/assets/audio/cue-click.wav",
+    "sha256": "994fbf6a821a12dfb3e1f325af85f2000c9abba392cff1b65f441be7347267a0",
+    "creator": "Mermaidia original sound design",
+    "licenseIdOrTerms": "Original project asset; generated from original text or mathematical sound design. eSpeak NG GPL-3.0-or-later is an authoring tool, not bundled.",
+    "licenseUrl": "https://espeak.sourceforge.net/license.html",
+    "attribution": "Original procedural Mermaidia sound design; an artistic texture, not an animal recording.",
+    "modifications": [
+      "Deterministic Fourier water texture; seamless periodic samples; conservative peak"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/audio-build.ts"
+  },
+  {
+    "id": "narration-welcome",
+    "localPath": "public/assets/audio/narration-welcome.wav",
+    "sha256": "20a0d0731755e10e152533ccd7938db61f94e18663bcf23c79012ae9078223f2",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: fde52e23c6e4ffa48a478b03fb6e1ea50317bfd9a8bc5ba0ca2c206666c5dc3f",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:43.172Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-controls",
+    "localPath": "public/assets/audio/narration-controls.wav",
+    "sha256": "9d44677e96e38635f57a6fea210777e8df0f67f3bd8dabbe4e009b004ada9c32",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 788e46c833b3bd2a85b80e60cccee5f89810ffaeb9842a30c86605a063d63641",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:45.144Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-surface",
+    "localPath": "public/assets/audio/narration-surface.wav",
+    "sha256": "4b6e1d2c57aaef4e52bf473dc662041bba0ff3eff4d6b13180e3b14c57ae7be3",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: d0cc65a608d0f626be5d5b87acca36d945a97380ddcbeda8de39f4f7d86a99ca",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:47.225Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-no-target",
+    "localPath": "public/assets/audio/narration-no-target.wav",
+    "sha256": "324871acfc6315eb5935852256d2a15625b233028396760df7cddde1c7d631da",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: d90290a8aef8dead5d28f292130b0b3a93cc28cbd1aca8bb75bf0ef7f5e990cf",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:49.362Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-idle",
+    "localPath": "public/assets/audio/narration-idle.wav",
+    "sha256": "e500c401ea3c109bbf26ba4e5c087191cc8382acccfeff8a344fb89b8d6c3a3a",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 516350f72f28186c0ac05a457e67ae6b808646824c6bf705684fec1dad62eb8a",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:53.910Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-listening",
+    "localPath": "public/assets/audio/narration-listening.wav",
+    "sha256": "5a051980369da4ab912931ded6f405e1e43bf78d32783a020fbbfa8fb08b9b04",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: c1d9f87a9a0a2167bcbf4e487127de3908e01b587eae060cafd3de2e97f79397",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:55.842Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-journal",
+    "localPath": "public/assets/audio/narration-journal.wav",
+    "sha256": "1d4b9a408edd1633498e1ee5383d7d198c5940581c2e66ecf145494c0ba0f46c",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 3ce47684091c6ae987f153cf03be6667aadcfa1ea69185572035dad11c154c23",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:28:58.296Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-start",
+    "localPath": "public/assets/audio/narration-start.wav",
+    "sha256": "16f0733e51bbace3bfac4c1894ac1c9f98df91cc5038b50db50d7becf3492609",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 9cb0c368808ee86d6ecff92898538403bd309a239780dce90814ee9ea4e6d31b",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:00.498Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-return",
+    "localPath": "public/assets/audio/narration-return.wav",
+    "sha256": "43e050b90e648ecf1c2fa2590ed59e60abbabc913204524b0b1bc96dfb837bed",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 9db2f042e59a8229f7c03010713a67bc9c83f5f172da067b708b5b66780a884f",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:02.128Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-stop",
+    "localPath": "public/assets/audio/narration-stop.wav",
+    "sha256": "512d09cb78b0eeb22bdfe3b5ced0acd9ab67468f2a9bb7f1b72a146c2714ac1f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: b277680b133a3064f34de6ab91924805d26a36f15bc59c659b4d93a6cc189f77",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:03.842Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-help",
+    "localPath": "public/assets/audio/narration-help.wav",
+    "sha256": "7d8c4e67196e4df426b3574817fe5fc2b150d8627870895323871ce21eecdb2a",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f07511a6c7b097daf6dc619f66c4f0d926b9f1cf93c5ccac970b1678f6d0719f",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:07.666Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-green-turtle",
+    "localPath": "public/assets/audio/narration-green-turtle.wav",
+    "sha256": "63d4165683aabc9a7eb6bb127e437346167846e79209cf91a6379ca84385943c",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 758cca351306060ae1366f682bb030bd2889e51ba8009284a9452b46f781ac7d",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:09.265Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-turtle-noaa"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-anemonefish",
+    "localPath": "public/assets/audio/narration-anemonefish.wav",
+    "sha256": "9848d9725df7062040843bfccd37c6df83a62537982b7eb000bcf4c20525be05",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 98ddf8e31b97f8c1408b245767c8911830bb43ecea989ce6a320afe6b796e3f0",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:11.044Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "gbr-great8"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-giant-clam",
+    "localPath": "public/assets/audio/narration-giant-clam.wav",
+    "sha256": "9f432b046473777b5c57a9fafd1f2a0416dc291d518c14e833f5fe7c76ac221b",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: e3b5e72c8f853ad6e06168160ef93b5f4feb2e7a8323411d6c0bbf85443ea59c",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:15.668Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "gbr-great8",
+      "clam-dbca"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-staghorn-coral",
+    "localPath": "public/assets/audio/narration-staghorn-coral.wav",
+    "sha256": "e0503f81ea6fcf12515f81906ea767e10ddf45ce465cbf09f9528883518e3654",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 5993e163ad274e3673d5bbcc8314d803691def7ef8e5a257be606c3cdd39ef9a",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:19.423Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-coral-study",
+      "aims-coral"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-seagrass",
+    "localPath": "public/assets/audio/narration-seagrass.wav",
+    "sha256": "9770dc3a54f49338ab284b7a7bc62499fa4e1427f6cdbc77154a0ccd3437055f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 39a19ecc07dbbec7d92d52dc367ff55a63be1c1e3c1e87d039ccaf8ef26572f9",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:22.175Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "seagrass-herbarium",
+      "seagrass-science"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-buff-banded-rail",
+    "localPath": "public/assets/audio/narration-buff-banded-rail.wav",
+    "sha256": "42d894fd5f190ad49f10b725362b0b850678c09f44f628a2af4f26346997eb44",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: eb818920a2ed72983a16bae74ad361e5ebaa57acd8ad5276999ac7518a634f7e",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:33.021Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-rail",
+      "rail-birdlife"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-hawksbill-turtle",
+    "localPath": "public/assets/audio/narration-hawksbill-turtle.wav",
+    "sha256": "c7e69aa47fd36e9fa8017e84cd1de65afdfbbadc3a68b8742f750b847184cbb2",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f5703bcad57cb27b16d302a16571a5a001e25fdbb28234060b45119bd51c825a",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:35.475Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-animals",
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-blue-tang",
+    "localPath": "public/assets/audio/narration-blue-tang.wav",
+    "sha256": "3c86ef143643d7aaed92364718f12681fe17eb6799b03a38b9a22c5065acc48f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: dd0db2d4067f77a9c0c0ce02e157b80dd979b95b1d50ab3eaebacf1cf221667b",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:39.486Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-elkhorn-coral",
+    "localPath": "public/assets/audio/narration-elkhorn-coral.wav",
+    "sha256": "429fb2ebd26ab029a041d70acd1e5946d5cb12dcb5ef70deaa2faefef586bb5e",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: a9c89f1ea94d7d1968f49d274d30f1d4cea2b01d13006c2f2662d0e383e08be1",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:41.590Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-sea-fan",
+    "localPath": "public/assets/audio/narration-sea-fan.wav",
+    "sha256": "453ffb3793fda27e7b4e96615a52d2ac495a7759b40f52e057a6a379efd50aab",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f1a4cb20c53f3d7546a0e063e55075ec06d3c4082295bfa0254a5e0473f84f17",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:44.665Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures",
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-spiny-lobster",
+    "localPath": "public/assets/audio/narration-spiny-lobster.wav",
+    "sha256": "7c073f0612c3f45e94ded70688351ad6d6ffa0b57494e4ff5bace89410cb22f3",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: af2f9fe29a5a245eaff9793d7823c02f0307d50c38c98f97e8a67b64f90de164",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:47.306Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "keys-creatures"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-brown-pelican",
+    "localPath": "public/assets/audio/narration-brown-pelican.wav",
+    "sha256": "b3903aaabcc4e62e25c60e499a57e586d807bfd648e4c482d725638ac4693ad3",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 100582bbb38ac92a3582d13822ac81bb7982219ab859cbff44487c1a501baa54",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:49.017Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-turtle-grass",
+    "localPath": "public/assets/audio/narration-turtle-grass.wav",
+    "sha256": "e01718d084b384d240a1c1b2b47047950e7460c3ae84e7afad928e85e0a6c3f6",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 462915aee607bb964271927094c15a8d869bb8005e0df1b26c8d25e3d39e0120",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:50.605Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "turtle-grass-source",
+      "seagrass-science",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-blue-striped-grunt",
+    "localPath": "public/assets/audio/narration-blue-striped-grunt.wav",
+    "sha256": "b2a8d0b8249df201b661d5c7d304b3cf003b77d0f21ccbd5edeb6db89982166d",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 57532ed4db2ba8b95d77f3df126ea39475c53fbc86300ac97ae044bd6f4c4462",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:52.337Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures",
+      "grunt-museum"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-yellowtail-snapper",
+    "localPath": "public/assets/audio/narration-yellowtail-snapper.wav",
+    "sha256": "47294a43c0c5cc5c748e7ac04278bc619f571adb933d3002f8bb1a7c7b056bec",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: e1408ae962df11ad0aa9bd724431f21f7945af065e9cd96f95a629cf1b044b04",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:54.518Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-sergeant-major",
+    "localPath": "public/assets/audio/narration-sergeant-major.wav",
+    "sha256": "1c1817fec681d167193f5a1421741416556612b5013ca6364bc35b06016e5c6f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 69da77f459aaf0d0d59c4044c86b21f8c0cb0fc2ffd50c0d0ecd29f8ea3681bf",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:56.278Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "sergeant-major-museum"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-green-moray",
+    "localPath": "public/assets/audio/narration-green-moray.wav",
+    "sha256": "96fe5118168ecfe6d9ebba0dc38eaace26f8eddceafc43fe6001631cd3c8619b",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 61341bec3172c21aa43536cd6711441b9d538428d022e3e7e7fec7c1bd8aa012",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:29:59.645Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "keys-creatures",
+      "moray-museum"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-adelie-penguin",
+    "localPath": "public/assets/audio/narration-adelie-penguin.wav",
+    "sha256": "2d7994de27f15a943615219da120eece55c4888e295647f956233ac09122054e",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: a20b62b8b0ef2b183544b298ce6ad6489125d6769229677460a4eb7d09429543",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:03.971Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "adelie-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-emperor-penguin",
+    "localPath": "public/assets/audio/narration-emperor-penguin.wav",
+    "sha256": "d4858948fd484960c380fb20c278b8fcd03461f67b8fb4dddc889b780f414c16",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 03b7008d2159378bf729974e03a777d2904bd93f98b37bf41effe7dbaf9956bd",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:06.591Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "emperor-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-weddell-seal",
+    "localPath": "public/assets/audio/narration-weddell-seal.wav",
+    "sha256": "f0be95df495fecd5ee79edb48d164c6934fa6f7a9e75f27ee4528a67d3137839",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: e14b672f623b162f8fd99b4f7f48eac550bfcf651453428594235fbf8d60a2e8",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:08.938Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "weddell-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-southern-elephant-seal",
+    "localPath": "public/assets/audio/narration-southern-elephant-seal.wav",
+    "sha256": "0336d753e0be02b3a54efdcbef263944ffe10a380e0481bd0ef41a94edeb6a35",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: b16dc1eeb311291899c72627c272f907892848b80162180dbe5933e736cd09bb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:10.519Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "elephant-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-leopard-seal",
+    "localPath": "public/assets/audio/narration-leopard-seal.wav",
+    "sha256": "aea267f7407bde75352f17836ec0e65f69a00852012afe5cd944c8b8f36b9571",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: be4f3dc963adf4e48ee83e1fa6323fa0d7295a0fd4e5db3cdb4e1b7366689da0",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:12.399Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "leopard-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-snow-petrel",
+    "localPath": "public/assets/audio/narration-snow-petrel.wav",
+    "sha256": "f5a74784829888dd0f18cb7f3341a94d075d543c023e7bbfcb7b191bdbdadf97",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 06a4b6ad8944dd01173af1db32961f8fa00e8ca572ba06211289396cb842a764",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:14.297Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "snow-petrel-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-antarctic-krill",
+    "localPath": "public/assets/audio/narration-antarctic-krill.wav",
+    "sha256": "b25d55f1ab9fec3218a53ab25efb223564b8fe491558fee82aca6afd210b6591",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 3fef64baa1f7cdb12a98d118fd5ba7d305868c511a90ef59b071d552f3b312d3",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:16.721Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "krill-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-bloody-belly-comb-jelly",
+    "localPath": "public/assets/audio/narration-bloody-belly-comb-jelly.wav",
+    "sha256": "1a51756e6baf0a57028be264f05ec20bc394a456f080885653006402974a05c0",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 9d562ba0bd6fe0045cdad7e866a8e36fff8ed6fbe707f17ee2999e8fea0ac00e",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:18.614Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-barreleye",
+    "localPath": "public/assets/audio/narration-barreleye.wav",
+    "sha256": "0d7df9fce586257f02412b5074a078f01a774789b86e88c4d8df984e6d9175e9",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 0753e9a4c1c4cae749d6580dd8b8a0b08850c556a0bfb10646f9b2310976def6",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:23.249Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-barreleye-fish",
+      "barreleye-aquarium"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-vampire-squid",
+    "localPath": "public/assets/audio/narration-vampire-squid.wav",
+    "sha256": "26f4977d47041684a068f76bb611e37b8a1b90c73598538bb77dbeeb54879efe",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: a63bac88f8281c607e6fca22e4c009131982b159fa6c6d056ad54fae6021b6c8",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:26.240Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-vampire-squid",
+      "vampire-research",
+      "vampire-noaa"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-big-red-jelly",
+    "localPath": "public/assets/audio/narration-big-red-jelly.wav",
+    "sha256": "d6d2ff6436278d427187aa1b8253f95f1f77a6fc05dc9b52c376285baf522880",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: baf394558dcb074b21450d145c01c1b06b6fcdd653e59c571845d40edea700b5",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:30.601Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-big-red-jelly"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-redhead-larvacean",
+    "localPath": "public/assets/audio/narration-redhead-larvacean.wav",
+    "sha256": "91b2829fc129eb76b77fa88f7efb4f10618520a7ff9f014371ff254c285c7c1a",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 958c89cf2b2dbfe5faa58c31d4bea97a1c2db04b3c4a3302dfdeed861d8f722e",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:32.914Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-reef-sand",
+    "localPath": "public/assets/audio/narration-reef-sand.wav",
+    "sha256": "7370430e5b764792cd5bb69d4eae6927d7d790ae95df7df5a48e111d89f04cee",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: b44403075ff833a212381aeb7ac60d46b58689c2540d577528c93fe7c54b7616",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:34.352Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-reef-limestone",
+    "localPath": "public/assets/audio/narration-reef-limestone.wav",
+    "sha256": "9a2dd2ce067e669ded7d4092c08eb74ed94b3ea1866ad7fd8b5215b57d7439e7",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 066ed211e3cba55ce64ff262014361100741148e0aa1296d1c1240fbcc0be46d",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:35.524Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-beach-sand",
+    "localPath": "public/assets/audio/narration-beach-sand.wav",
+    "sha256": "cead2c2c6d326be0f754829a85b5aa3ad06e8cd8409696eec373b860414b824e",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 503a189b30861b59df4a9a7c8239acbf0cfa3c991b7bcd646158b0ff4e24cfc1",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:36.978Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-wreck-bow",
+    "localPath": "public/assets/audio/narration-wreck-bow.wav",
+    "sha256": "b6d49179340e493e906be0087ce5c85068b96bea06f69382c6fbbfe5372f1cab",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: d775053276fcf5bf1405c165c8883b833a5dd512a482dc9facc8406ccd9aa56a",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:38.343Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-wreck-ribs",
+    "localPath": "public/assets/audio/narration-wreck-ribs.wav",
+    "sha256": "e40d5642998b8442b9998b3bd54a9eb89664a51e6d45fc9028f3d88500efd097",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 652768ad4ec3cdec3f033d47bb794fddc98bdb74aa6995f776b580851c423542",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:39.962Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-wreck-sand",
+    "localPath": "public/assets/audio/narration-wreck-sand.wav",
+    "sha256": "fdcbb48cc178312690d45457a14d4c3233fcf7823bfa5709cb9b75caa683270c",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 3d6009624963b2c59ca2a340a6eb6c5fe7f877db65b701ccb8174f27516fab90",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:41.681Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-sea-ice",
+    "localPath": "public/assets/audio/narration-sea-ice.wav",
+    "sha256": "46cd3648afc29e15c23629c58845d158eb4ffc7a10af1513a3d7551109923e71",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 282cd0915c97468727c92fbcf1b070285e5b52f2b79049a52d21b047b1baa321",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:42.957Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "ice-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-antarctic-rock",
+    "localPath": "public/assets/audio/narration-antarctic-rock.wav",
+    "sha256": "271d9030710c1e2dfcdee0f38b77a3e14a465a8d125b7a58334de9180c481b1d",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: dd6b8996217fda399387f69e3a11a5f95519567a6d869ba1176c334ae9a3ad3d",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:44.437Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-marine-snow",
+    "localPath": "public/assets/audio/narration-marine-snow.wav",
+    "sha256": "fac34399dccef28b2338d42f3e26dfe206ef748f41f41f7db60fb80302e5da86",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: a98b65f2dbc57cd46d4cf4f1d73825c7ab5c3e78160d3aa9055652a479d76818",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:45.773Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-deep-water",
+    "localPath": "public/assets/audio/narration-deep-water.wav",
+    "sha256": "68a3a28fc3f079def7d4e42c4579956a44d15bb8809f362c5335990340344d39",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 6b6fc4515ea96a44b058c2a4325893f36704acc8c81ec7de79c9cdc8f013a075",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:48.000Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "destination-australia",
+    "localPath": "public/assets/audio/destination-australia.wav",
+    "sha256": "803b4300245f7e60bc6654fa754c2d0f4c42c8fa6c4d2393aae040b0bc1925c8",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: d982a87446cb644bcc30ec511b5e2f812dc614ace6bc56132d751c59a7325edb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:49.289Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-australia-easy",
+    "localPath": "public/assets/audio/start-australia-easy.wav",
+    "sha256": "6cb2255d8ad0bf872f235e5c79ae575016626cb7234468e330999b2cfb1b97a2",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 8b38ab3c56e865d96253bc0003ccdec9ca3570acb98a789e7725105debeb1efb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:50.315Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-australia-wildlife",
+    "localPath": "public/assets/audio/start-australia-wildlife.wav",
+    "sha256": "0a333f76d2384dde94d2fb055ccff86987b95951fef3d83517391ad97821aed2",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 42b4df7ac0639fda0592597c2ed030b5d7d67e0588d3ccda12049c7442a49709",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:51.657Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-australia-surface",
+    "localPath": "public/assets/audio/start-australia-surface.wav",
+    "sha256": "b34daf24c294f350fabf903a8d4ac35c819d915438babe30041d2586441630c6",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: e6b4fead24ac1e32ca6d560f01c344aad50ba1f497cd8590ee2eaf5bcb13e904",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:52.572Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-reef-turtle",
+    "localPath": "public/assets/audio/narration-activity-reef-turtle.wav",
+    "sha256": "51ab4e2c32bf4686eee640025eeb9e871b1a1d2c5f6ff344e783083d260d21cf",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: c9a0fcac85378ef6126687b9ee5ff6933404d2c480e86742b27614c05a885d84",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:53.325Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-reef-waves",
+    "localPath": "public/assets/audio/narration-activity-reef-waves.wav",
+    "sha256": "b4a9a39a5f8009927497ba10b41be57ef2a8a2f930de0d29b31726001ef19a44",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: d5817bfaff643d11152ac7dcf3ddc4bbed4bf342704df6ab75730cc2d04af07c",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:54.126Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-reef-sky",
+    "localPath": "public/assets/audio/narration-activity-reef-sky.wav",
+    "sha256": "40892e36dcabde7d762c890c3e6e41f7846bc1eeab1d3d4c5f0a089c864c2929",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 11459521b48c1677d6436bd160fccda3ee8eb92716d96152bcf038448b5fc5a6",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:55.348Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "green-island-local",
+      "green-coral-study",
+      "seagrass-herbarium",
+      "green-rail",
+      "green-clam-museum",
+      "green-biology-local"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "destination-caribbean",
+    "localPath": "public/assets/audio/destination-caribbean.wav",
+    "sha256": "03cd35a9df8fa60d790af9be255b496f598e42d878dc67f10eb09d6c2158aa6f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 93c932af68d9cdd3fe7f61c862641966b9fd39916ead3f241cafac1e9cf923e9",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:56.650Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-caribbean-easy",
+    "localPath": "public/assets/audio/start-caribbean-easy.wav",
+    "sha256": "516456d7b4ce4683e90f0eddb359a53d96eb83bdaead7b322be259365ee43159",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 8b38ab3c56e865d96253bc0003ccdec9ca3570acb98a789e7725105debeb1efb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:57.537Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-caribbean-wildlife",
+    "localPath": "public/assets/audio/start-caribbean-wildlife.wav",
+    "sha256": "25ebb6ef99fe71875c1f375568809239764792c1c84f907826ae28a3618cebae",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f3b07e10be01e67fe44d894dc6ff0d61d92b5ac142d623c36d10a3afdca79be6",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:58.592Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-caribbean-surface",
+    "localPath": "public/assets/audio/start-caribbean-surface.wav",
+    "sha256": "e32bc8f57c5f099b3aee15c4f7b369eb1f359ba6720452b57ab3c246661ff67c",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 7c9312fc81532afa6d160dfc1dad029b014cc02012235c5aaca7cb9dd70d4e67",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:30:59.895Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-carib-blue",
+    "localPath": "public/assets/audio/narration-activity-carib-blue.wav",
+    "sha256": "24e8a56a6fb4c4239ead5d8802e9d8abfb0964864a4bdad1a1d43aeff4154197",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 9a2a073cf94f8baa3aa6a7114fd370e1875dc0a8d8fb2dad04da75f87b87fb15",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:00.774Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-carib-fan",
+    "localPath": "public/assets/audio/narration-activity-carib-fan.wav",
+    "sha256": "c0877ab9da83f9f9e090dbde4eee5c4737ad3535b899e8817a611bc5e4ae8bb2",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 5e34e86030777c5ad79a0c4b2e4feb85324d86f85bc02d304c2197e0a9ef7d48",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:01.773Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-carib-bird",
+    "localPath": "public/assets/audio/narration-activity-carib-bird.wav",
+    "sha256": "a81781e43f7f7b80e55a3631963932b5435c379792c4f4b052563b9900ec2e5d",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 1c3bbe40945b1d48f01efaf963ea2d6410028850e340b2625cfabaa56a4c20c2",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:03.059Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals",
+      "buck-monitoring",
+      "buck-condition-2022"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "destination-antarctica",
+    "localPath": "public/assets/audio/destination-antarctica.wav",
+    "sha256": "0c4d0c97d2079b85b4474b7b4dcfda4db172a833fc37a9c85b5d950bd28ec244",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 8a2abddf428b9c435a0aa69ac9da30393c60251ae36814ccf542bec2aceb3520",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:04.285Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-antarctica-easy",
+    "localPath": "public/assets/audio/start-antarctica-easy.wav",
+    "sha256": "eee2776e2a43fc0a6084fd181226e10e84ae52e4ee956cd2ee6450772da90105",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 8b38ab3c56e865d96253bc0003ccdec9ca3570acb98a789e7725105debeb1efb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:05.333Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-antarctica-wildlife",
+    "localPath": "public/assets/audio/start-antarctica-wildlife.wav",
+    "sha256": "ac34cb607ba34c0df04865dedcecdd6b2555e9f5e579afe217c8d47ae0ea3e01",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f44f2bd5e31a66faf9d66545972c20a9f16c469ab2f1e9ed2770c358d70f7f1b",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:06.571Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-antarctica-surface",
+    "localPath": "public/assets/audio/start-antarctica-surface.wav",
+    "sha256": "96ead245df49bfd37c39ba67042070b6401bbe7593ade39da2209af4f9d6adfe",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: e30416a0f1965dd0c10db616bd0f1ce80fa2243bddd8d0987753252d8b8512bd",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:07.869Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-ice-flippers",
+    "localPath": "public/assets/audio/narration-activity-ice-flippers.wav",
+    "sha256": "22bc7540b04e81c01da73443c794742cca24fb931b42db8ca0387189475e33f0",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 75b8ce9ca72b71485023f5e5895de8efd223bb8e1376c7d1261ace32062c516c",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:08.801Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-ice-krill",
+    "localPath": "public/assets/audio/narration-activity-ice-krill.wav",
+    "sha256": "31714628648588e161be691ec5fadf6b7dce82aa5f0ea0868608aacedb828c6e",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 0da8701eb5b8ddf621e21895cefb5a9c28cbc2138e00211256a666bb7055a6a8",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:09.717Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-ice-sky",
+    "localPath": "public/assets/audio/narration-activity-ice-sky.wav",
+    "sha256": "4d82a7d697e7aca6a1f33d347e4c2a36f88ee3bb0d4c6556afea490d042f520f",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 7a759a0d1898eec0ad07e32b591f389c637393356c3fc315b082f339d2084744",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:10.658Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "casey-aap",
+      "adelie-aap",
+      "snow-petrel-casey"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "destination-shipwreck",
+    "localPath": "public/assets/audio/destination-shipwreck.wav",
+    "sha256": "41935edf48c221813cd5253aab33bfc2c473453cb9390ce67e13d7e9bfb74d3c",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 3d171542e9420a4241e23bd0118dfce415d005047b1d71f8d51606676348fcbc",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:11.867Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-shipwreck-easy",
+    "localPath": "public/assets/audio/start-shipwreck-easy.wav",
+    "sha256": "78d2557142ea40812bc9dabb75e32c6b29dae535000c4d2855438765ec7f79e0",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 8b38ab3c56e865d96253bc0003ccdec9ca3570acb98a789e7725105debeb1efb",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:12.793Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-shipwreck-wildlife",
+    "localPath": "public/assets/audio/start-shipwreck-wildlife.wav",
+    "sha256": "03dbfd4ac128e2f977eb58fe090f9c026b5163e5068c99aaa9ea98d1b4791bc3",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: cc280c23dffe85c1e299fe257e29b35842c3c288d9fe5bfe37eac11200330cd9",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:13.809Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-shipwreck-surface",
+    "localPath": "public/assets/audio/start-shipwreck-surface.wav",
+    "sha256": "494a8320ff99d803b9dbf88f733338553914a9f62e58841818415ebdcab8a8d7",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 147b16e39b4bd2bad5d6ae31cf901020bb99b127b617d98e4140cdca66593086",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:14.744Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-wreck-school",
+    "localPath": "public/assets/audio/narration-activity-wreck-school.wav",
+    "sha256": "27ba745b514f93c16d6e4602be2cc3a800a9e8c1dbcab074e387f93a10631819",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 246f5b6d63ed72d01175192de1f415221682ef580e3ac426fc6f4b62feb63b44",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:15.616Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-wreck-bow-activity",
+    "localPath": "public/assets/audio/narration-activity-wreck-bow-activity.wav",
+    "sha256": "36ba108ab14fe88303465a055c60d08acef1f114e2d5ee298c1669acb859cf52",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: eb01139a0ce112d16256da7180d86c512bc927020cc4a78740dd89f47348e1b8",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:16.386Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-wreck-lobster",
+    "localPath": "public/assets/audio/narration-activity-wreck-lobster.wav",
+    "sha256": "8577d9f79c68f80d68468d647700a7890c4bcac5b28509b1ab572be83c1a2d93",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 6a63239e957485a24248a21c0c21c2add3cdc33460590bdf2f6de43fbbeba05a",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:17.092Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "benwood-noaa",
+      "benwood-growth",
+      "benwood-observation",
+      "benwood-fish-local",
+      "benwood-grunts"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "destination-deepsea",
+    "localPath": "public/assets/audio/destination-deepsea.wav",
+    "sha256": "40f4dd935f8a6db52808f68a5bf12f387849bd7bb25f119fe09cea98ea603243",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 34df5bc9af9758af79df50e3bed86e83a899cc15f41f6d8c20128d1b8e95aef4",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:18.292Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-deepsea-easy",
+    "localPath": "public/assets/audio/start-deepsea-easy.wav",
+    "sha256": "a1a35ff383c8c0c4334c7fdf48c8a86808987cf7a9aee3c749f46b03740baebe",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 6aaaba8d3dea7e18f4ee17e6e2728c34ebbcc5b8a7c0c3d4ca594119960ff05e",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:19.395Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-deepsea-wildlife",
+    "localPath": "public/assets/audio/start-deepsea-wildlife.wav",
+    "sha256": "9294749df9c3a92b9d24e4e8fb20dd50ef1647410bb334fc9936b30de3c8b56d",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f13d2f09734749837f119694fd5b41ebb60f09b34c512b08d1da61c0cf3c2aa1",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:20.497Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "start-deepsea-midnight",
+    "localPath": "public/assets/audio/start-deepsea-midnight.wav",
+    "sha256": "9d85548a3b6be6801dda65afee938d63c41060f6a4b8ba476b3d06123ac37cab",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 4b71f3fdff2fd872ccbec4f8269ee45fdd52e0fb9a074abf2ea09fd7d607c682",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:21.791Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-deep-combs",
+    "localPath": "public/assets/audio/narration-activity-deep-combs.wav",
+    "sha256": "3dbefe31f4c4ba319e626888c31c0a0c51c2fca4d54704808f50236ee405db1d",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: f8e2b37155d1e02174d74202a0706b68243ac3cd1d0d73f15b823982b884e7b4",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:22.823Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-deep-pulse",
+    "localPath": "public/assets/audio/narration-activity-deep-pulse.wav",
+    "sha256": "416e4a81d36e1653932a0d62b4276f3ca65c54efb25f28181f311c51951dc752",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 38456573af28837c393a5f0581e9ccc00bc36c6a75b21da21eb1e459b215c77e",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:23.658Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  },
+  {
+    "id": "narration-activity-deep-surface",
+    "localPath": "public/assets/audio/narration-activity-deep-surface.wav",
+    "sha256": "576e3d01a67ad78481a51f4114edd89d68f37625ce82748dbe080b9293051ef0",
+    "creator": "Mermaidia original scripts; OpenAI speech generation",
+    "licenseIdOrTerms": "Original Mermaidia scripted text rendered using OpenAI built-in Marin voice under OpenAI service terms; AI-generated narration, no cloned performer or third-party recording.",
+    "licenseUrl": "https://openai.com/policies/services-agreement/",
+    "attribution": "AI-generated voice: OpenAI gpt-4o-mini-tts, built-in Marin. Original Mermaidia character and reviewed scripts.",
+    "modifications": [
+      "Model: gpt-4o-mini-tts; voice: marin",
+      "Narration fingerprint: 08739ddf0f2d421e6b07d311abb6ebaf73c74786856a43c1372af6e76bac7d89",
+      "FFmpeg loudness normalization -22 LUFS / -6 dBTP, mono 24 kHz PCM16",
+      "Generated: 2026-09-10T19:31:24.625Z",
+      "Gentle speech compression (threshold 0.063, ratio 2.5, attack 5 ms, release 80 ms) followed by measured two-pass FFmpeg loudnorm -22 LUFS / -6 dBTP; mono 24 kHz PCM16"
+    ],
+    "distribution": "approved",
+    "evidenceIds": [
+      "mbari-local",
+      "mbari-local-comb",
+      "mbari-redhead-larvacean",
+      "monterey-pelican"
+    ],
+    "buildRecipe": "npx tsx scripts/narration-build.ts"
+  }
+]

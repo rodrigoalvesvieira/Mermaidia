@@ -1,0 +1,10 @@
+import "dotenv/config";
+import express from "express";
+import { resolve } from "node:path";
+import { registerVoiceRoutes } from "../../server/voice";
+const app = express();
+app.disable("x-powered-by");
+registerVoiceRoutes(app);
+app.get("/api/health", (_req, res) => res.json({ ok: true }));
+app.use(express.static(resolve("artifacts/voice/soak-client")));
+app.listen(Number(process.env.PORT || 5184), "127.0.0.1");

@@ -1,0 +1,588 @@
+[
+  {
+    "id": "green-turtle",
+    "builder": "turtle",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "green-turtle-noaa"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/green-turtle.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.fisheries.noaa.gov/species/green-turtle"
+    ]
+  },
+  {
+    "id": "giant-clam",
+    "builder": "clam",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "clam-dbca",
+      "natgeo-clam"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/giant-clam.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.dbca.wa.gov.au/wildlife-and-ecosystems/marine/marine-parks/fun-facts/giant-clam",
+      "https://www.nationalgeographic.com/animals/invertebrates/facts/giant-clam"
+    ]
+  },
+  {
+    "id": "hawksbill-turtle",
+    "builder": "turtle",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "buck-animals",
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/learn/nature/animals.htm",
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "blue-tang",
+    "builder": "fish",
+    "variant": "blue-tang",
+    "color": "38658E",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "elkhorn-coral",
+    "builder": "coral",
+    "variant": "elkhorn",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "sea-fan",
+    "builder": "fan",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "keys-creatures",
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/education/creature-feature.html",
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "spiny-lobster",
+    "builder": "lobster",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "buck-front",
+      "keys-creatures"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf",
+      "https://floridakeys.noaa.gov/education/creature-feature.html"
+    ]
+  },
+  {
+    "id": "brown-pelican",
+    "builder": "bird",
+    "variant": "pelican",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "buck-front",
+      "buck-animals"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf",
+      "https://www.nps.gov/buis/learn/nature/animals.htm"
+    ]
+  },
+  {
+    "id": "adelie-penguin",
+    "builder": "bird",
+    "variant": "adelie",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "adelie-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/adelie-penguin.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+    ]
+  },
+  {
+    "id": "emperor-penguin",
+    "builder": "bird",
+    "variant": "emperor",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "emperor-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/emperor-penguin.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/penguins/emperor-penguin/"
+    ]
+  },
+  {
+    "id": "weddell-seal",
+    "builder": "seal",
+    "variant": "weddell",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "weddell-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/weddell-seal.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/seals/weddell-seal/"
+    ]
+  },
+  {
+    "id": "southern-elephant-seal",
+    "builder": "seal",
+    "variant": "elephant",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "elephant-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/southern-elephant-seal.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/seals/elephant-seal/"
+    ]
+  },
+  {
+    "id": "leopard-seal",
+    "builder": "seal",
+    "variant": "leopard",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "leopard-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/leopard-seal.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/seals/leopard-seal/"
+    ]
+  },
+  {
+    "id": "snow-petrel",
+    "builder": "bird",
+    "variant": "petrel",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "snow-petrel-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/snow-petrel.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/flying-birds/petrels-and-shearwaters/snow-petrel/"
+    ]
+  },
+  {
+    "id": "bloody-belly-comb-jelly",
+    "builder": "jelly",
+    "variant": "comb",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/bloody-belly-comb-jelly.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/bloody-belly-comb-jelly/"
+    ]
+  },
+  {
+    "id": "barreleye",
+    "builder": "barreleye",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "mbari-barreleye-fish",
+      "barreleye-aquarium"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/barreleye.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/barreleye-fish/",
+      "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/barreleye"
+    ]
+  },
+  {
+    "id": "vampire-squid",
+    "builder": "jelly",
+    "variant": "vampire",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "mbari-vampire-squid",
+      "vampire-research"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/vampire-squid.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/vampire-squid/",
+      "https://www.mbari.org/news/mbari-researchers-discover-what-vampire-squids-eat-its-not-what-you-think/"
+    ]
+  },
+  {
+    "id": "big-red-jelly",
+    "builder": "jelly",
+    "variant": "big-red",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "mbari-big-red-jelly"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/big-red-jelly.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/big-red-jelly/"
+    ]
+  },
+  {
+    "id": "redhead-larvacean",
+    "builder": "jelly",
+    "variant": "larvacean",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/redhead-larvacean.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/redhead-larvacean/"
+    ]
+  },
+  {
+    "id": "yellowtail-snapper",
+    "builder": "fish",
+    "variant": "yellowtail",
+    "color": "C0BCA4",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/yellowtail-snapper.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/education/creature-feature.html"
+    ]
+  },
+  {
+    "id": "blue-striped-grunt",
+    "builder": "fish",
+    "variant": "grunts",
+    "color": "CFAC42",
+    "evidenceIds": [
+      "grunt-museum"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/blue-striped-grunt.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/bluestriped-grunt/"
+    ]
+  },
+  {
+    "id": "sergeant-major",
+    "builder": "fish",
+    "variant": "sergeant-major",
+    "color": "C7C8A1",
+    "evidenceIds": [
+      "sergeant-major-museum"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/sergeant-major.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/sergeant-major/"
+    ]
+  },
+  {
+    "id": "green-moray",
+    "builder": "eel",
+    "variant": "",
+    "color": "E9AC37",
+    "evidenceIds": [
+      "keys-creatures"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/green-moray.jpg",
+    "review": "Anatomy inspected from reference image before build; stylized original mesh, not redistributed reference.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/education/creature-feature.html"
+    ]
+  },
+  {
+    "id": "anemonefish",
+    "builder": "fish",
+    "variant": "anemonefish",
+    "evidenceIds": [
+      "anemonefish-dbca"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/anemonefish.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "color": "F37B23",
+    "sourceUrls": [
+      "https://www.dbca.wa.gov.au/wildlife-and-ecosystems/marine/marine-parks/fun-facts/anemonefish"
+    ]
+  },
+  {
+    "id": "buff-banded-rail",
+    "builder": "bird",
+    "variant": "rail",
+    "evidenceIds": [
+      "green-rail"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buff-banded-rail.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://visitgreenisland.com.au/green-island-eco-tour/"
+    ]
+  },
+  {
+    "id": "turtle-grass",
+    "builder": "grass",
+    "variant": "",
+    "evidenceIds": [
+      "turtle-grass-source"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/turtle-grass.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.floridamuseum.ufl.edu/southflorida/habitats/seagrasses/species/"
+    ]
+  },
+  {
+    "id": "antarctic-krill",
+    "builder": "krill",
+    "variant": "",
+    "evidenceIds": [
+      "krill-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/antarctic-krill.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+    ]
+  },
+  {
+    "id": "reef-sand",
+    "builder": "feature",
+    "variant": "sand",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "reef-limestone",
+    "builder": "feature",
+    "variant": "rock",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "beach-sand",
+    "builder": "feature",
+    "variant": "sand",
+    "evidenceIds": [
+      "buck-front"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/buck-front.png",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.nps.gov/buis/planyourvisit/upload/Buck-Island-Front.pdf"
+    ]
+  },
+  {
+    "id": "wreck-bow",
+    "builder": "feature",
+    "variant": "wreck",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/benwood-bow.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/shipwrecktrail/benwood.html"
+    ]
+  },
+  {
+    "id": "wreck-ribs",
+    "builder": "feature",
+    "variant": "wreck",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/benwood-orthomosaic.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/shipwrecktrail/benwood.html"
+    ]
+  },
+  {
+    "id": "wreck-sand",
+    "builder": "feature",
+    "variant": "sand",
+    "evidenceIds": [
+      "benwood-noaa"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/benwood-orthomosaic.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://floridakeys.noaa.gov/shipwrecktrail/benwood.html"
+    ]
+  },
+  {
+    "id": "sea-ice",
+    "builder": "feature",
+    "variant": "ice",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/weddell-seal.jpg",
+    "review": "Snow-covered coastal ice surface in inspected Weddell seal image; low pale blue slab, not a glacial landscape survey.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/casey/environment/"
+    ]
+  },
+  {
+    "id": "antarctic-rock",
+    "builder": "feature",
+    "variant": "rock",
+    "evidenceIds": [
+      "casey-aap"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/casey.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/casey/environment/"
+    ]
+  },
+  {
+    "id": "marine-snow",
+    "builder": "feature",
+    "variant": "snow",
+    "evidenceIds": [
+      "mbari-redhead-larvacean"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/redhead-larvacean.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/redhead-larvacean/"
+    ]
+  },
+  {
+    "id": "deep-water",
+    "builder": "feature",
+    "variant": "water",
+    "evidenceIds": [
+      "mbari-bloody-belly-comb-jelly"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/redhead-larvacean.jpg",
+    "review": "Inspected original source image; constrained stylized original model, source imagery excluded from distribution.",
+    "sourceUrls": [
+      "https://www.mbari.org/animal/bloody-belly-comb-jelly/"
+    ]
+  },
+  {
+    "id": "seagrass",
+    "builder": "grass",
+    "variant": "halodule",
+    "evidenceIds": [
+      "halodule-visual",
+      "halodule-photo"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/halodule-illustration.png",
+    "review": "Inspected narrow flat ribbon leaves, horizontal rhizome illustration and meadow photo; compact stand with simplified roots below ground.",
+    "sourceUrls": [
+      "https://ian.umces.edu/media-library/halodule-uninervis/",
+      "https://commons.wikimedia.org/wiki/File:Seagrass_Halodule_uninervis_(5777808662).jpg"
+    ]
+  },
+  {
+    "id": "staghorn-coral",
+    "builder": "coral",
+    "variant": "staghorn",
+    "evidenceIds": [
+      "acropora-museum"
+    ],
+    "visualInspected": true,
+    "referencePath": "artifacts/references/acropora-museum.jpg",
+    "review": "Australian Museum photograph inspected: branched brown colony, pale growing tips and radial corallites; broad Acropora genus label.",
+    "sourceUrls": [
+      "https://australian.museum/blog/amri-news/resilient-coral-rebuilds-on-lizard-island-reefs-/"
+    ]
+  }
+]

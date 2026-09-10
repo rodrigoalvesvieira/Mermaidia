@@ -1,0 +1,111 @@
+[
+  {
+    "id": "latency-01",
+    "text": "can we go faster",
+    "expected": [
+      {
+        "type": "speed",
+        "delta": 1
+      }
+    ],
+    "path": "tests/voice/latency-audio/latency-01.wav",
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "1336b3e2564a1cf71a97275375b86900b843d482c5c46d13f5872cb1e5fd9f81",
+    "sourceTextSha256": "23ac61246e4f7fa353fa04a88f74f7c7d371284228a8ff31494aedd1010c64f6",
+    "recipeSha256": "15d1f75bcf9cdd84889a98aa7ab529a0c510b81472eccbee684ab52cacf809aa",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html",
+    "buildRecipe": "npx tsx scripts/voice-latency-fixtures.ts",
+    "synthesis": {
+      "voice": "en-us+f3",
+      "wordsPerMinute": 130,
+      "initialSilenceMs": 2200,
+      "trailingPaddingSeconds": 4,
+      "volume": 0.6,
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "pcm_s16le"
+    },
+    "durationSeconds": 7.981375
+  },
+  {
+    "id": "latency-02",
+    "text": "I want to swim forward",
+    "expected": [
+      {
+        "type": "swim"
+      }
+    ],
+    "path": "tests/voice/latency-audio/latency-02.wav",
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "f932871f656313de06f2f8e9ba336606e58246c44400acd9650ccbf5d7c734cf",
+    "sourceTextSha256": "b9fdb18add0f9ac4111caf01742499a86c819c2580c6c0a2e798bb542a886f12",
+    "recipeSha256": "15d1f75bcf9cdd84889a98aa7ab529a0c510b81472eccbee684ab52cacf809aa",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html",
+    "buildRecipe": "npx tsx scripts/voice-latency-fixtures.ts",
+    "synthesis": {
+      "voice": "en-us",
+      "wordsPerMinute": 140,
+      "initialSilenceMs": 2200,
+      "trailingPaddingSeconds": 4,
+      "volume": 0.6,
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "pcm_s16le"
+    },
+    "durationSeconds": 8.389708
+  },
+  {
+    "id": "latency-03",
+    "text": "can we go to the surface",
+    "expected": [
+      {
+        "type": "surface"
+      }
+    ],
+    "path": "tests/voice/latency-audio/latency-03.wav",
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "653ab66f3e5ca91e9d171809c903e11bbe071799efba40bedd500a7ed029184f",
+    "sourceTextSha256": "90675669b5496333dd9ec608fcf4d334fed84790557a618d604a79c710d121cd",
+    "recipeSha256": "15d1f75bcf9cdd84889a98aa7ab529a0c510b81472eccbee684ab52cacf809aa",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html",
+    "buildRecipe": "npx tsx scripts/voice-latency-fixtures.ts",
+    "synthesis": {
+      "voice": "en-us+f3",
+      "wordsPerMinute": 150,
+      "initialSilenceMs": 2200,
+      "trailingPaddingSeconds": 4,
+      "volume": 0.6,
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "pcm_s16le"
+    },
+    "durationSeconds": 8.004313
+  },
+  {
+    "id": "latency-04",
+    "text": "can we not swim forward",
+    "expected": [],
+    "path": "tests/voice/latency-audio/latency-04.wav",
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "200d14845b910806d6f78567cb125486e0f9ace3c052241f7f5297bab9c0deb9",
+    "sourceTextSha256": "04681367ebea788c9126c27a8013e1f59270efc88a3e4031f8eebe9ff86ed8fc",
+    "recipeSha256": "15d1f75bcf9cdd84889a98aa7ab529a0c510b81472eccbee684ab52cacf809aa",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html",
+    "buildRecipe": "npx tsx scripts/voice-latency-fixtures.ts",
+    "synthesis": {
+      "voice": "en-us",
+      "wordsPerMinute": 160,
+      "initialSilenceMs": 2200,
+      "trailingPaddingSeconds": 4,
+      "volume": 0.6,
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "pcm_s16le"
+    },
+    "durationSeconds": 8.108708
+  }
+]

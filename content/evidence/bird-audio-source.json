@@ -1,0 +1,14 @@
+{
+  "id": "rail-audio-inat",
+  "url": "https://www.inaturalist.org/observations/238018928",
+  "publisher": "iNaturalist; John Cull (bbdown)",
+  "title": "Buff-banded Rail, Mount Evelyn, Victoria, 26 August 2024; sound 1185828",
+  "accessedOn": "2026-09-10",
+  "locator": "Public API observation238018928: sound1185828 license_code cc0; research-grade, two current confirming IDs. API https://api.inaturalist.org/v1/observations/238018928",
+  "supports": [
+    "Identified real buff-banded rail recording",
+    "Original audio locality Mount Evelyn, not Green Island",
+    "Item-level CC0 sound dedication"
+  ],
+  "inspected": true
+}

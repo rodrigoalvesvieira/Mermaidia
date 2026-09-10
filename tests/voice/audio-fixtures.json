@@ -1,0 +1,479 @@
+[
+  {
+    "id": "fixture-01",
+    "path": "tests/voice/audio/fixture-01.wav",
+    "text": "swim forward",
+    "expected": [
+      {
+        "type": "swim"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "1ea477f446dcfe2cd439faacb49b063bae4adc9c361a6b710824ac7df8019ad2",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-02",
+    "path": "tests/voice/audio/fixture-02.wav",
+    "text": "go ahead",
+    "expected": [
+      {
+        "type": "swim"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "2477c4361d410564ab3e00b4c8bc53f18c613bb3ed8c02a9ad253de8646460ff",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-03",
+    "path": "tests/voice/audio/fixture-03.wav",
+    "text": "please swim forward",
+    "expected": [
+      {
+        "type": "swim"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "e0171de5df30b3835728cef40186ed1deedd7590fe5ab7e8d70aef9dffe9e567",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-04",
+    "path": "tests/voice/audio/fixture-04.wav",
+    "text": "swim",
+    "expected": [
+      {
+        "type": "swim"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "01ae4a671c0f815e6afc055556e345956629203206b47448017beac8773a3f58",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-05",
+    "path": "tests/voice/audio/fixture-05.wav",
+    "text": "stop",
+    "expected": [
+      {
+        "type": "stop"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "0cfcd5bf44c23b426e1dae4b0ba23be5e0e08f5af054cd318a7ce23d4137ec2f",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-06",
+    "path": "tests/voice/audio/fixture-06.wav",
+    "text": "wait",
+    "expected": [
+      {
+        "type": "stop"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "b1373107e21743a635a216881216ae5e9c8d6c8deb506fe8ca2d47e78264d3d8",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-07",
+    "path": "tests/voice/audio/fixture-07.wav",
+    "text": "stay here",
+    "expected": [
+      {
+        "type": "stop"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "120e216e0668bb93d0c98a407fe56e4b4922d755452228e4e8b6cb85b52f02e4",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-08",
+    "path": "tests/voice/audio/fixture-08.wav",
+    "text": "turn right",
+    "expected": [
+      {
+        "type": "turn",
+        "degrees": 30
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "b967e7a4b9b7bc7bb94ef614bb0b3c6caf262d67a6fea20ef3f8309e32f981d8",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-09",
+    "path": "tests/voice/audio/fixture-09.wav",
+    "text": "turn left",
+    "expected": [
+      {
+        "type": "turn",
+        "degrees": -30
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "c76a797c328d92955e7693c263c78850c9ce1e3830b7ea1cf25465454babc27b",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-10",
+    "path": "tests/voice/audio/fixture-10.wav",
+    "text": "turn around",
+    "expected": [
+      {
+        "type": "turn",
+        "degrees": 180
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "c60c136ceceeed5a5ef944f3fc8c15150d7c922c1378df0e2db7d6a344cc57e9",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-11",
+    "path": "tests/voice/audio/fixture-11.wav",
+    "text": "go right",
+    "expected": [
+      {
+        "type": "lateral",
+        "direction": 1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "8660c05f84c1d45c2d9dbc4ac1bea397b25fd2f91a36715e908070587106f86c",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-12",
+    "path": "tests/voice/audio/fixture-12.wav",
+    "text": "go left",
+    "expected": [
+      {
+        "type": "lateral",
+        "direction": -1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "c64e011f3641e5dbe4ad024a9943bfb1f5588697399c403af16ae669b142ad6d",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-13",
+    "path": "tests/voice/audio/fixture-13.wav",
+    "text": "go up",
+    "expected": [
+      {
+        "type": "vertical",
+        "direction": 1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "f2b1590e7a3e9600445a52cde1960fbdf0585b263e2920d903cab5703ec9b5f2",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-14",
+    "path": "tests/voice/audio/fixture-14.wav",
+    "text": "go down",
+    "expected": [
+      {
+        "type": "vertical",
+        "direction": -1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "000e29161f9fcda882678e1eeaad18b3511455c7071696fa5dbfb9031d87fa65",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-15",
+    "path": "tests/voice/audio/fixture-15.wav",
+    "text": "go to the surface",
+    "expected": [
+      {
+        "type": "surface"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "7d77b376be4bae97631201fc3000a21d05241f392e8c48910087bf88cd996c1c",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-16",
+    "path": "tests/voice/audio/fixture-16.wav",
+    "text": "dive",
+    "expected": [
+      {
+        "type": "dive"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "4051870be48a658d6253b4d0f340d8bad3389171c816c5a4fb1068dbf66b354d",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-17",
+    "path": "tests/voice/audio/fixture-17.wav",
+    "text": "go faster",
+    "expected": [
+      {
+        "type": "speed",
+        "delta": 1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "989fc946d8267bfec8542ae4dc4ae5bab096ef8388916637fb852c0a18495b8e",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-18",
+    "path": "tests/voice/audio/fixture-18.wav",
+    "text": "slower",
+    "expected": [
+      {
+        "type": "speed",
+        "delta": -1
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "16cc7b00c594c4ce111711f67645acfdcefba3face6e1e9919254dcd7bcfca0b",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-19",
+    "path": "tests/voice/audio/fixture-19.wav",
+    "text": "what is that",
+    "expected": [
+      {
+        "type": "inspect"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "a3f7fa0c64797e5e76f15aaeaf57a1ed580eb15f1e5073f76ff5b6572bd32a0b",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-20",
+    "path": "tests/voice/audio/fixture-20.wav",
+    "text": "take me back",
+    "expected": [
+      {
+        "type": "return"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "620804a702fcb922c52a390f7aab0f714597c2758e1687e9012658525a6aa5d3",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-21",
+    "path": "tests/voice/audio/fixture-21.wav",
+    "text": "pause",
+    "expected": [
+      {
+        "type": "pause"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "bc1448d5b76489560bae67c500e390d77f9dcf875f298cab0871bfde67c805be",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-22",
+    "path": "tests/voice/audio/fixture-22.wav",
+    "text": "resume",
+    "expected": [
+      {
+        "type": "resume"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "815752d9908c52c2a980f9271ec9accdbd5df59fa6b855f699208074758fdabf",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-23",
+    "path": "tests/voice/audio/fixture-23.wav",
+    "text": "close",
+    "expected": [
+      {
+        "type": "close"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "4bb565d80d612d4aa333e63ca25deb31b2a2be0389301e4bbf008665bd908feb",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-24",
+    "path": "tests/voice/audio/fixture-24.wav",
+    "text": "open my journal",
+    "expected": [
+      {
+        "type": "journal"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "5da0a7f1655583b17232ee76ff2395d7d544f4adc950c6038a1db86e07f8dacd",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-25",
+    "path": "tests/voice/audio/fixture-25.wav",
+    "text": "help",
+    "expected": [
+      {
+        "type": "help"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "a69bf36850058ffcc2fa5f16f2cf7bb2c6db116e7a88fac183f788103087bf3c",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-26",
+    "path": "tests/voice/audio/fixture-26.wav",
+    "text": "go to that turtle",
+    "expected": [
+      {
+        "type": "approach",
+        "targetId": "turtle-1"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "70412b4cb66a0c5782b3b0df96a8ed995f5602672ed591801044b0e45358b15b",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-27",
+    "path": "tests/voice/audio/fixture-27.wav",
+    "text": "look at the jellyfish",
+    "expected": [
+      {
+        "type": "approach",
+        "targetId": "jelly-1"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "1ebe12a2bd000dcc1f32a80aecb55b2475c87fbf5e952d2b923685809de6cdef",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-28",
+    "path": "tests/voice/audio/fixture-28.wav",
+    "text": "turn right and go forward",
+    "expected": [
+      {
+        "type": "turn",
+        "degrees": 30
+      },
+      {
+        "type": "swim"
+      }
+    ],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "7cd15c1e05f646a2b514c0f743982294f1801583e5617d2b82c5d84277e6233f",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-29",
+    "path": "tests/voice/audio/fixture-29.wav",
+    "text": "don't turn right",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "8c652509fc673aa35d8bff741451dc5bb59b2c5d88b4e4850212711d6207e5a0",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-30",
+    "path": "tests/voice/audio/fixture-30.wav",
+    "text": "do not swim",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "448aa53938f63e988fe83a3df4314dc3fc887e4cc76f980003b4198ad5f5b190",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-31",
+    "path": "tests/voice/audio/fixture-31.wav",
+    "text": "go left and right",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "18b0317baa3067bcadb1a72c05925cfdb7960ba347c8f33bb5a955c231ef4f56",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-32",
+    "path": "tests/voice/audio/fixture-32.wav",
+    "text": "",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "a436f0b9472b40ccf24531bd3fa581b96cf01ecc00c183ff87c9f1807b0bef33",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-33",
+    "path": "tests/voice/audio/fixture-33.wav",
+    "text": "   ",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "a436f0b9472b40ccf24531bd3fa581b96cf01ecc00c183ff87c9f1807b0bef33",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-34",
+    "path": "tests/voice/audio/fixture-34.wav",
+    "text": "where does my mom live",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "c9102bd063c5a3d63dc2100bf17b864c05b578015088747700b69c6dcf7a9dba",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  },
+  {
+    "id": "fixture-35",
+    "path": "tests/voice/audio/fixture-35.wav",
+    "text": "look at the fish",
+    "expected": [],
+    "kind": "synthetic formant speech; original developer command text",
+    "sha256": "4b565a9ed3937be7cc7a6ceb19e5cdaa1b875bed8954992fa1bb1a77400ad6f1",
+    "license": "Original project fixture; eSpeak NG synthesis tool output; no human recording",
+    "source": "https://espeak.sourceforge.net/license.html"
+  }
+]
